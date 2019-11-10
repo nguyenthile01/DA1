@@ -1,0 +1,93 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>
+    <RootNamespace>Y</RootNamespace>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Migrations\20180726102624_Upgrade_ABP_380.cs" />
+    <Compile Remove="Migrations\20180927062408_test.cs" />
+    <Compile Remove="Migrations\20190111071724_Upgraded_To_Abp_v4_1_0.cs" />
+    <Compile Remove="Migrations\20190308080647_updateProduct1.cs" />
+    <Compile Remove="Migrations\20190312051027_addProductcategoryandattribute.cs" />
+    <Compile Remove="Migrations\20190312052020_changeProductcategoryname.cs" />
+    <Compile Remove="Migrations\20190313020742_fixNewProduct.cs" />
+    <Compile Remove="Migrations\20190322104020_addTicketCategory.cs" />
+    <Compile Remove="Migrations\20190322104020_addTicketCategory.Designer.cs" />
+    <Compile Remove="Migrations\20190328085512_addOrder.cs" />
+    <Compile Remove="Migrations\20190404122501_updateTicketModel.cs" />
+    <Compile Remove="Migrations\20190404130601_updateTicketModel.cs" />
+    <Compile Remove="Migrations\20190404133028_updateTicketModel.cs" />
+    <Compile Remove="Migrations\20190408074839_changeModelTicketBooked.cs" />
+    <Compile Remove="Migrations\20190408074942_changeTicketBooked.cs" />
+    <Compile Remove="Migrations\20190408080019_changeModelTicket.cs" />
+    <Compile Remove="Migrations\20190408080330_changeModelTicket.cs" />
+    <Compile Remove="Migrations\20190408080320_unrequireusername.cs" />
+    <Compile Remove="Migrations\20190408080320_unrequireusername.Designer.cs" />
+    <Compile Remove="Migrations\20190408080709_unrequireusername2.cs" />
+    <Compile Remove="Migrations\20190408080709_unrequireusername2.Designer.cs" />
+    <Compile Remove="Migrations\20190409074227_updateTicketbookedModel0409.cs" />
+    <Compile Remove="Migrations\20190409074227_updateTicketbookedModel0409.Designer.cs" />
+    <Compile Remove="Migrations\20190409081209_updateTicketbookedModel0409.cs" />
+    <Compile Remove="Migrations\20190409081209_updateTicketbookedModel0409.Designer.cs" />
+    <Compile Remove="Migrations\20190409081904_updateTicketbookedModel040901.cs" />
+    <Compile Remove="Migrations\20190409081904_updateTicketbookedModel040901.Designer.cs" />
+    <Compile Remove="Migrations\20190409082646_updateTicketbookedModel040901.cs" />
+    <Compile Remove="Migrations\20190409082646_updateTicketbookedModel040901.Designer.cs" />
+    <Compile Remove="Migrations\20190409102525_changetickettablename.cs" />
+    <Compile Remove="Migrations\20190409102525_changetickettablename.Designer.cs" />
+    <Compile Remove="Migrations\20190411150334_updateCollation.cs" />
+    <Compile Remove="Migrations\20190411160029_udpateEventModel1104.cs" />
+    <Compile Remove="Migrations\20190416021329_updateOrderTable1604.cs" />
+    <Compile Remove="Migrations\20190416021329_updateOrderTable1604.Designer.cs" />
+    <Compile Remove="Migrations\20190416021455_updateOrderTable1604.cs" />
+    <Compile Remove="Migrations\20190416021455_updateOrderTable1604.Designer.cs" />
+    <Compile Remove="Migrations\20190416100959_updateOrderTable16044.cs" />
+    <Compile Remove="Migrations\20190416100959_updateOrderTable16044.Designer.cs" />
+    <Compile Remove="Migrations\20190416130018_udpateShoppingCart1604.cs" />
+    <Compile Remove="Migrations\20190416130018_udpateShoppingCart1604.Designer.cs" />
+    <Compile Remove="Migrations\20190416130358_udpateShoppingCart1604.cs" />
+    <Compile Remove="Migrations\20190416130358_udpateShoppingCart1604.Designer.cs" />
+    <Compile Remove="Migrations\20190418035058_add_columns_shoppingCartItem.cs" />
+    <Compile Remove="Migrations\20190418035058_add_columns_shoppingCartItem.Designer.cs" />
+    <Compile Remove="Migrations\20190418072604_updatePaymentResulttable.cs" />
+    <Compile Remove="Migrations\20190418072604_updatePaymentResulttable.Designer.cs" />
+    <Compile Remove="Migrations\20190418104351_updateCollation.cs" />
+    <Compile Remove="Migrations\20190418104351_updateCollation.Designer.cs" />
+    <Compile Remove="Migrations\20190506082305_addModelPost.cs" />
+    <Compile Remove="Migrations\20190506100937_addPostCategory.cs" />
+    <Compile Remove="Migrations\20190506100937_addPostCategory.Designer.cs" />
+    <Compile Remove="Migrations\20190514070516_addModelOrganization.cs" />
+    <Compile Remove="Migrations\20190514070516_addModelOrganization.Designer.cs" />
+    <Compile Remove="Migrations\20190524081351_changeModelPaymentRequest_2405.cs" />
+    <Compile Remove="Migrations\20190524081351_changeModelPaymentRequest_2405.Designer.cs" />
+    <Compile Remove="Migrations\20190529081012_add_columns_in_emailtemplate.cs" />
+    <Compile Remove="Migrations\20190529081012_add_columns_in_emailtemplate.Designer.cs" />
+    <Compile Remove="Migrations\20190601092648_changeModelEvent_addTicketTemplate.cs" />
+    <Compile Remove="Migrations\20190601092648_changeModelEvent_addTicketTemplate.Designer.cs" />
+    <Compile Remove="Migrations\20190611142238_add-column_currecy_table.cs" />
+    <Compile Remove="Migrations\20190611142238_add-column_currecy_table.Designer.cs" />
+    <Compile Remove="Migrations\20190611143539_add-column_currecy_table.cs" />
+    <Compile Remove="Migrations\20190611143539_add-column_currecy_table.Designer.cs" />
+    <Compile Remove="Migrations\20190611145452_create_currency.cs" />
+    <Compile Remove="Migrations\20190611145452_create_currency.Designer.cs" />
+    <Compile Remove="Migrations\20191105035230_updateDatabase.cs" />
+    <Compile Remove="Migrations\20191105035230_updateDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20191108144244_initDatabase.cs" />
+    <Compile Remove="Migrations\20191109101248_add-table.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Y.Core\Y.Core.csproj" />
+  </ItemGroup>
+</Project>
