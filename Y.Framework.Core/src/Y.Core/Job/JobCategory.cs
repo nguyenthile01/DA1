@@ -8,6 +8,5 @@ namespace Y.Core
     public class JobCategory:BaseAuditedEntity
     {
         public string Name { get; set; }
-        public DateTime CreationTime { get; set; } = DateTime.Now;
     } 
 }

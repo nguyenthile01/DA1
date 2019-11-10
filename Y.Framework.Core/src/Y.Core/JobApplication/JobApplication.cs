@@ -14,7 +14,5 @@ namespace Y.Core
         [ForeignKey(nameof(JobId))]
         public Job Job { get; set; }
         public int? JobId { get; set; }
-        public DateTime CreateTime { get; set; } = DateTime.Now;
-        public bool IsDelete { get; set; } = false;
     }
 }

@@ -15,6 +15,5 @@ namespace Y.Core
         [ForeignKey(nameof(JobSeekerId))]
         public JobSeeker JobSeeker { get; set; }
         public int? JobSeekerId { get; set; }
-        public DateTime CreateTime { get; set; } = DateTime.Now;
     }
 }

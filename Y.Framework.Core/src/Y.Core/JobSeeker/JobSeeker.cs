@@ -16,14 +16,11 @@ namespace Y.Core
         public string Password { get; set; }
         public string PhoneNumber { get; set; }
         public string Address { get; set; }
-        public bool IsActive { get; set; } = true;
-        public DateTime CreateTime { get; set; } = DateTime.Now;
         [ForeignKey(nameof(ExperienceId))]
         public Experience Experience { get; set; }
         public int ExperienceId { get; set; }
         [ForeignKey(nameof(KnowledgeId))]
         public Knowledge Knowledge { get; set; }
         public int KnowledgeId { get; set; }
-        public bool IsDelete { get; set; } = false;
     }
 }
