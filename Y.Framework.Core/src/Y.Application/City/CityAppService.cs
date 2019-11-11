@@ -18,19 +18,19 @@ using Y.Dto;
 
 namespace Y.Services
 {
-   public class JobCategoryAppService : YAppServiceBase
+    public class CityAppService : YAppServiceBase
     {
-        private readonly IRepository<JobCategory> jobCategoryRepository;
-        public JobCategoryAppService(IRepository<JobCategory> jobCategoryRepository
+        private readonly IRepository<City> cityRepository;
+        public CityAppService(IRepository<City> cityRepository
         )
         {
-            this.jobCategoryRepository = jobCategoryRepository;
+            this.cityRepository = cityRepository;
         }
-        //[AbpAuthorize(PermissionNames.AdminPage_JobCategory)]
-        public virtual async Task<PagedResultDto<JobCategoryDto>> GetAll(JobCategoryFilterDto input)
+        //[AbpAuthorize(PermissionNames.AdminPage_City)]
+        public virtual async Task<PagedResultDto<CityDto>> GetAll(CityFilterDto input)
         {
 
-            var query = jobCategoryRepository.GetAll()
+            var query = cityRepository.GetAll()
                  .WhereIf(input.Id != null, p => p.Id == input.Id);
 
             var totalCount = await query.CountAsync();
@@ -40,21 +40,21 @@ namespace Y.Services
 
             var entities = await query.ToListAsync();
 
-            return new PagedResultDto<JobCategoryDto>(
+            return new PagedResultDto<CityDto>(
                 totalCount,
-                entities.Select(p => p.MapTo<JobCategoryDto>())
+                entities.Select(p => p.MapTo<CityDto>())
                     .ToList()
             );
         }
-        public async Task<CreateOrEditJobCategoryDto> GetForEdit(int? id)
+        public async Task<CreateOrEditCityDto> GetForEdit(int? id)
         {
-            var model = new CreateOrEditJobCategoryDto();
+            var model = new CreateOrEditCityDto();
             if (id == null)
             {
                 return model;
             }
 
-            var entity = await jobCategoryRepository.GetAll()
+            var entity = await cityRepository.GetAll()
                 .FirstOrDefaultAsync(p => p.Id == id);
 
             entity.MapTo(model);
@@ -64,8 +64,8 @@ namespace Y.Services
             //    .ToList();
             return model;
         }
-        //[AbpAuthorize(PermissionNames.AdminPage_JobCategory)]
-        public async Task CreateOrUpdate(CreateOrEditJobCategoryDto input)
+        //[AbpAuthorize(PermissionNames.AdminPage_City)]
+        public async Task CreateOrUpdate(CreateOrEditCityDto input)
         {
             if (input.Id != 0)
             {
@@ -76,36 +76,30 @@ namespace Y.Services
                 await CreateUserAsync(input);
             }
         }
-        //[AbpAuthorize(PermissionNames.AdminPage_JobCategory)]
+        //[AbpAuthorize(PermissionNames.AdminPage_City)]
         public async Task Delete(EntityDto<int> input)
         {
-            await jobCategoryRepository.DeleteAsync(p => p.Id == input.Id);
+            await cityRepository.DeleteAsync(p => p.Id == input.Id);
 
         }
-        public void Delete1(EntityDto<int> input)
+        protected virtual async Task UpdateAsync(CreateOrEditCityDto input)
         {
-            jobCategoryRepository.Delete(input.Id);
-            
-            CurrentUnitOfWork.SaveChanges();
-        }
-        protected virtual async Task UpdateAsync(CreateOrEditJobCategoryDto input)
-        {
-            var entity = await jobCategoryRepository.GetAll()
+            var entity = await cityRepository.GetAll()
                 .FirstOrDefaultAsync(p => p.Id == input.Id);
 
             ObjectMapper.Map(input, entity);
-            await jobCategoryRepository.UpdateAsync(entity);
+            await cityRepository.UpdateAsync(entity);
         }
 
-        protected virtual async Task CreateUserAsync(CreateOrEditJobCategoryDto input)
+        protected virtual async Task CreateUserAsync(CreateOrEditCityDto input)
         {
 
-            var entity = ObjectMapper.Map<JobCategory>(input);
+            var entity = ObjectMapper.Map<City>(input);
 
-            await jobCategoryRepository.InsertAndGetIdAsync(entity);
+            await cityRepository.InsertAndGetIdAsync(entity);
             await CurrentUnitOfWork.SaveChangesAsync();
         }
-        protected virtual IQueryable<JobCategory> ApplySorting(IQueryable<JobCategory> query, JobCategoryFilterDto input)
+        protected virtual IQueryable<City> ApplySorting(IQueryable<City> query, CityFilterDto input)
         {
             var sortInput = input as ISortedResultRequest;
             if (sortInput != null)
@@ -124,7 +118,7 @@ namespace Y.Services
             return query;
         }
 
-        protected virtual IQueryable<JobCategory> ApplyPaging(IQueryable<JobCategory> query, JobCategoryFilterDto input)
+        protected virtual IQueryable<City> ApplyPaging(IQueryable<City> query, CityFilterDto input)
         {
             var pagedInput = input as IPagedResultRequest;
             if (pagedInput != null)

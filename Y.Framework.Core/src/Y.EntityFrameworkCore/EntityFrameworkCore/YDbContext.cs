@@ -23,7 +23,7 @@ namespace Y.EntityFrameworkCore
 
         public virtual DbSet<JobCategory> JobCategories { get; set; }
 
-        public virtual DbSet<Cities> Cities { get; set; }
+        public virtual DbSet<City> Cities { get; set; }
         public virtual DbSet<Job> Jobs { get; set; }
         public virtual DbSet<JobSeeker> JobSeekers { get; set; }
         public virtual DbSet<Experience> Experiences { get; set; }

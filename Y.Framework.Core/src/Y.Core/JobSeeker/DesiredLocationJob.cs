@@ -9,7 +9,7 @@ namespace Y.Core
     public class DesiredLocationJob:BaseAuditedEntity
     {
         [ForeignKey(nameof(CityId))]
-        public Cities Cities { get; set; }
+        public City Cities { get; set; }
         public int? CityId { get; set; }
         [ForeignKey(nameof(JobSeekerId))]
         public JobSeeker JobSeeker { get; set; }

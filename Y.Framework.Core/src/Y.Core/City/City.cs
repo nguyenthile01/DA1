@@ -5,7 +5,7 @@ using Y.Core;
 
 namespace Y.Core
 {
-    public class Cities:BaseAuditedEntity
+    public class City:BaseAuditedEntity
     {
         public string Name { get; set; }
     }

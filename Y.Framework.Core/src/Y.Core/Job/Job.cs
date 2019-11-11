@@ -18,7 +18,7 @@ namespace Y.Core
         public int Wage { get; set; }
 
         [ForeignKey(nameof(CityId))]
-        public Cities Cities { get; set; }
+        public City Cities { get; set; }
         public int? CityId { get; set; }
 
         public string DescJob { get; set; }
