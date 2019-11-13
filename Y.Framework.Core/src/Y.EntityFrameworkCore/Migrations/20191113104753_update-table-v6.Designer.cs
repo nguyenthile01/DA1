@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Y.EntityFrameworkCore;
 
 namespace Y.Migrations
 {
     [DbContext(typeof(YDbContext))]
-    partial class YDbContextModelSnapshot : ModelSnapshot
+    [Migration("20191113104753_update-table-v6")]
+    partial class updatetablev6
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -1429,47 +1431,6 @@ namespace Y.Migrations
                     b.ToTable("Employers");
                 });
 
-            modelBuilder.Entity("Y.Core.Experience", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("Company");
-
-                    b.Property<DateTime>("CreationTime");
-
-                    b.Property<long?>("CreatorUserId");
-
-                    b.Property<DateTime>("DateFrom");
-
-                    b.Property<DateTime>("DateTo");
-
-                    b.Property<string>("Description");
-
-                    b.Property<int>("DisplayOrder");
-
-                    b.Property<bool>("IsActive");
-
-                    b.Property<bool>("IsCurrentJob");
-
-                    b.Property<bool>("IsDeleted");
-
-                    b.Property<int>("JobSeekerId");
-
-                    b.Property<DateTime?>("LastModificationTime");
-
-                    b.Property<long?>("LastModifierUserId");
-
-                    b.Property<string>("Title");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("JobSeekerId");
-
-                    b.ToTable("Experiences");
-                });
-
             modelBuilder.Entity("Y.Core.Job", b =>
                 {
                     b.Property<int>("Id")
@@ -2775,14 +2736,6 @@ namespace Y.Migrations
                     b.HasOne("Y.Authorization.Users.User", "LastModifierUser")
                         .WithMany()
                         .HasForeignKey("LastModifierUserId");
-                });
-
-            modelBuilder.Entity("Y.Core.Experience", b =>
-                {
-                    b.HasOne("Y.Core.JobSeeker", "JobSeeker")
-                        .WithMany()
-                        .HasForeignKey("JobSeekerId")
-                        .OnDelete(DeleteBehavior.Cascade);
                 });
 
             modelBuilder.Entity("Y.Core.Job", b =>

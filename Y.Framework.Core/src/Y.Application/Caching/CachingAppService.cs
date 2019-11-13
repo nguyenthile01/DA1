@@ -15,8 +15,6 @@ namespace Y.Configuration
         {
             this.cacheManager = cacheManager;
         }
-
-        [HttpGet]
         public async Task ClearAllCaches()
         {
             var caches = cacheManager.GetAllCaches();

@@ -1,23 +1,21 @@
-﻿using Abp.Domain.Entities;
-using Abp.Domain.Entities.Auditing;
+﻿using Abp.Application.Services.Dto;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Text;
+using System.ComponentModel.DataAnnotations;
+using Abp.AutoMapper;
 using Y.Core;
 
-namespace Y.Core
+namespace Y.Dto
 {
-    public class Experience : BaseAuditedEntity
+    public class ExperienceDto : IEntityDto<int>
     {
+        public int Id { get; set; }
         public string Title { get; set; }
         public string Company { get; set; }
-        public bool IsCurrentJob { get; set; } = false;
+        public bool IsCurrentJob { get; set; }
         public DateTime DateFrom { get; set; }
         public DateTime DateTo { get; set; }
         public string Description { get; set; }
-        [ForeignKey(nameof(JobSeekerId))]
-        public JobSeeker JobSeeker { get; set; }
         public int JobSeekerId { get; set; }
     }
 }
