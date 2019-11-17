@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Y.EntityFrameworkCore;
 
 namespace Y.Migrations
 {
     [DbContext(typeof(YDbContext))]
-    partial class YDbContextModelSnapshot : ModelSnapshot
+    [Migration("20191115063459_update-table-v11")]
+    partial class updatetablev11
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -1600,8 +1602,6 @@ namespace Y.Migrations
                     b.Property<DateTime>("CreationTime");
 
                     b.Property<long?>("CreatorUserId");
-
-                    b.Property<string>("Desc");
 
                     b.Property<int>("DisplayOrder");
 

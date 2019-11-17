@@ -16,6 +16,7 @@ namespace Y.Core
         public string Password { get; set; }
         public string PhoneNumber { get; set; }
         public string Address { get; set; }
-        
+        public string avtarUrl { get; set; }
+        public string Desc { get; set; }
     }
 }

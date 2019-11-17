@@ -10,8 +10,9 @@ namespace Y.Dto
 {
     public class JobSeekerFilterDto : YPagedAndSortDto
     {
-        public int Id { get; set; }
+        public int? Id { get; set; }
         public string Name { get; set; }
-        public string UserName { get; set; }
+        public int? JobLocationId { get; set; }
+        public int? CategoryId { get; set; }
     }
 }
