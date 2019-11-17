@@ -1,12 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Text;
+using System.ComponentModel.DataAnnotations;
+using Abp.Application.Services.Dto;
+using Abp.AutoMapper;
+using Abp.Domain.Entities;
+using Abp.Domain.Entities.Auditing;
 using Y.Core;
+using Y.Services;
 
-namespace Y.Core
+namespace Y.Dto
 {
-    public class Knowledge:BaseAuditedEntity
+    [AutoMap(typeof(Knowledge))]
+    public class CreateOrEditKnowledgeDto : EntityDto
     {
         public string Specialized { get; set; }
         public string School { get; set; }
@@ -14,9 +19,6 @@ namespace Y.Core
         public DateTime DateFrom { get; set; }
         public DateTime DateTo { get; set; }
         public string Achievement { get; set; }
-
-        [ForeignKey(nameof(JobSeekerId))]
-        public JobSeeker JobSeeker { get; set; }
-        public int JobSeekerId { get; set; }
+        public int? JobSeekerId { get; set; }
     }
 }

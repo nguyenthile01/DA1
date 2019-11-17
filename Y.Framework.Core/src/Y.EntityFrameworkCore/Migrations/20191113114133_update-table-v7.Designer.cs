@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Y.EntityFrameworkCore;
 
 namespace Y.Migrations
 {
     [DbContext(typeof(YDbContext))]
-    partial class YDbContextModelSnapshot : ModelSnapshot
+    [Migration("20191113114133_update-table-v7")]
+    partial class updatetablev7
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -1058,7 +1060,7 @@ namespace Y.Migrations
 
                     b.Property<long?>("LastModifierUserId");
 
-                    b.Property<string>("Name");
+                    b.Property<string>("name");
 
                     b.HasKey("Id");
 
@@ -1255,7 +1257,7 @@ namespace Y.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int?>("CategoryId");
+                    b.Property<int?>("CareerId");
 
                     b.Property<DateTime>("CreationTime");
 
@@ -1275,7 +1277,7 @@ namespace Y.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CategoryId");
+                    b.HasIndex("CareerId");
 
                     b.HasIndex("JobSeekerId");
 
@@ -1429,47 +1431,6 @@ namespace Y.Migrations
                     b.ToTable("Employers");
                 });
 
-            modelBuilder.Entity("Y.Core.Experience", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("Company");
-
-                    b.Property<DateTime>("CreationTime");
-
-                    b.Property<long?>("CreatorUserId");
-
-                    b.Property<DateTime>("DateFrom");
-
-                    b.Property<DateTime>("DateTo");
-
-                    b.Property<string>("Description");
-
-                    b.Property<int>("DisplayOrder");
-
-                    b.Property<bool>("IsActive");
-
-                    b.Property<bool>("IsCurrentJob");
-
-                    b.Property<bool>("IsDeleted");
-
-                    b.Property<int>("JobSeekerId");
-
-                    b.Property<DateTime?>("LastModificationTime");
-
-                    b.Property<long?>("LastModifierUserId");
-
-                    b.Property<string>("Title");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("JobSeekerId");
-
-                    b.ToTable("Experiences");
-                });
-
             modelBuilder.Entity("Y.Core.Job", b =>
                 {
                     b.Property<int>("Id")
@@ -1493,8 +1454,6 @@ namespace Y.Migrations
                     b.Property<string>("DescJob");
 
                     b.Property<int>("DisplayOrder");
-
-                    b.Property<int?>("EmployerId");
 
                     b.Property<string>("Gender");
 
@@ -1523,8 +1482,6 @@ namespace Y.Migrations
                     b.HasIndex("CategoryId");
 
                     b.HasIndex("CityId");
-
-                    b.HasIndex("EmployerId");
 
                     b.ToTable("Jobs");
                 });
@@ -1601,8 +1558,6 @@ namespace Y.Migrations
 
                     b.Property<long?>("CreatorUserId");
 
-                    b.Property<string>("Desc");
-
                     b.Property<int>("DisplayOrder");
 
                     b.Property<string>("EmailAddress");
@@ -1626,8 +1581,6 @@ namespace Y.Migrations
                     b.Property<string>("SurName");
 
                     b.Property<string>("UserName");
-
-                    b.Property<string>("avtarUrl");
 
                     b.HasKey("Id");
 
@@ -2749,9 +2702,9 @@ namespace Y.Migrations
 
             modelBuilder.Entity("Y.Core.DesiredCareer", b =>
                 {
-                    b.HasOne("Y.Core.JobCategory", "JobCategory")
+                    b.HasOne("Y.Core.Career", "Career")
                         .WithMany()
-                        .HasForeignKey("CategoryId");
+                        .HasForeignKey("CareerId");
 
                     b.HasOne("Y.Core.JobSeeker", "JobSeeker")
                         .WithMany()
@@ -2785,14 +2738,6 @@ namespace Y.Migrations
                         .HasForeignKey("LastModifierUserId");
                 });
 
-            modelBuilder.Entity("Y.Core.Experience", b =>
-                {
-                    b.HasOne("Y.Core.JobSeeker", "JobSeeker")
-                        .WithMany()
-                        .HasForeignKey("JobSeekerId")
-                        .OnDelete(DeleteBehavior.Cascade);
-                });
-
             modelBuilder.Entity("Y.Core.Job", b =>
                 {
                     b.HasOne("Y.Core.JobCategory", "JobCategory")
@@ -2802,10 +2747,6 @@ namespace Y.Migrations
                     b.HasOne("Y.Core.City", "Cities")
                         .WithMany()
                         .HasForeignKey("CityId");
-
-                    b.HasOne("Y.Core.Employer", "Employer")
-                        .WithMany()
-                        .HasForeignKey("EmployerId");
                 });
 
             modelBuilder.Entity("Y.Core.JobApplication", b =>

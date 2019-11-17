@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Y.EntityFrameworkCore;
 
 namespace Y.Migrations
 {
     [DbContext(typeof(YDbContext))]
-    partial class YDbContextModelSnapshot : ModelSnapshot
+    [Migration("20191115062836_update-table-v10")]
+    partial class updatetablev10
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -1494,8 +1496,6 @@ namespace Y.Migrations
 
                     b.Property<int>("DisplayOrder");
 
-                    b.Property<int?>("EmployerId");
-
                     b.Property<string>("Gender");
 
                     b.Property<bool>("IsActive");
@@ -1523,8 +1523,6 @@ namespace Y.Migrations
                     b.HasIndex("CategoryId");
 
                     b.HasIndex("CityId");
-
-                    b.HasIndex("EmployerId");
 
                     b.ToTable("Jobs");
                 });
@@ -1600,8 +1598,6 @@ namespace Y.Migrations
                     b.Property<DateTime>("CreationTime");
 
                     b.Property<long?>("CreatorUserId");
-
-                    b.Property<string>("Desc");
 
                     b.Property<int>("DisplayOrder");
 
@@ -2802,10 +2798,6 @@ namespace Y.Migrations
                     b.HasOne("Y.Core.City", "Cities")
                         .WithMany()
                         .HasForeignKey("CityId");
-
-                    b.HasOne("Y.Core.Employer", "Employer")
-                        .WithMany()
-                        .HasForeignKey("EmployerId");
                 });
 
             modelBuilder.Entity("Y.Core.JobApplication", b =>

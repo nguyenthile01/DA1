@@ -20,6 +20,9 @@ namespace Y.Core
         [ForeignKey(nameof(CityId))]
         public City Cities { get; set; }
         public int? CityId { get; set; }
+        [ForeignKey(nameof(EmployerId))]
+        public Employer Employer { get; set; }
+        public int? EmployerId { get; set; }
 
         public string DescJob { get; set; }
         public string WorkExperience { get; set; }
