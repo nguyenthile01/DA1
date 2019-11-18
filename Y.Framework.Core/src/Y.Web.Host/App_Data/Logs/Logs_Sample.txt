@@ -12744,3 +12744,1124 @@ DEBUG 2019-11-17 16:58:58,496 [8    ] Quartz.Core.QuartzSchedulerThread        -
 DEBUG 2019-11-17 16:59:25,011 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
 DEBUG 2019-11-17 16:59:51,863 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
 DEBUG 2019-11-17 17:00:19,807 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:00:49,773 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:01:16,413 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:01:43,503 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:02:08,692 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:02:37,208 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:03:00,951 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:03:26,526 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:03:52,815 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:04:18,681 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:04:46,198 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:05:10,288 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:05:36,370 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:06:04,937 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:06:29,933 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:06:57,218 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:07:23,086 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:07:50,448 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:08:15,349 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:08:42,999 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:09:06,536 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:09:34,675 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:10:04,387 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:10:28,507 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:10:53,136 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:11:21,194 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:11:48,660 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:12:14,474 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:12:43,475 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:13:07,368 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:13:33,772 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:14:02,601 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:14:27,475 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:14:55,208 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:15:20,801 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:15:48,012 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:16:11,264 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:16:39,445 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:17:03,418 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:17:31,075 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:17:55,753 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:18:20,321 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:18:46,267 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:19:12,334 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:19:39,357 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:20:03,618 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:20:30,966 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:20:55,121 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:21:25,059 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:21:49,352 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:22:14,241 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:22:40,221 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:23:03,507 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:23:31,934 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:24:00,025 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:24:28,985 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:24:58,891 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:25:27,564 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:25:55,474 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:26:23,311 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:26:49,481 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:27:19,433 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:27:48,746 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:28:15,562 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:28:45,017 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:29:13,902 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:29:39,479 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:30:06,686 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:30:36,649 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:31:02,513 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:31:32,279 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:31:56,446 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:32:25,280 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:32:53,989 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:33:22,805 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:33:48,234 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:34:11,992 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:34:38,790 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:35:06,133 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:35:30,377 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:35:56,568 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:36:19,852 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:36:43,376 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:37:07,081 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:37:36,170 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:38:02,485 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:38:27,568 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:38:54,815 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:39:24,773 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:39:49,349 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:40:18,343 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:40:41,580 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:41:07,676 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:41:33,772 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:42:00,101 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:42:23,515 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:42:47,577 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:43:11,007 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:43:36,020 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:44:02,772 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:44:29,414 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:44:52,542 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:45:20,839 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:45:48,185 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:46:11,524 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:46:40,850 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:47:04,335 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:47:31,201 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:47:55,629 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:48:19,689 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:48:46,728 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:49:14,319 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:49:38,883 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:50:05,676 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:50:32,951 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:50:56,550 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:51:20,106 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:51:47,737 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:52:17,600 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:52:46,391 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:53:15,584 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:53:41,512 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:54:08,789 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:54:37,297 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:55:03,528 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:55:27,968 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:55:53,011 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:56:19,870 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:56:43,477 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:57:12,600 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:57:40,833 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:58:05,714 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:58:29,267 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:58:54,322 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:59:22,509 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 17:59:47,331 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:00:15,367 [8    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:00:52,714 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-11-17 18:00:52,815 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2019-11-17 18:00:52,840 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.Web.Host.Startup.YWebHostModule, Y.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,844 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.YWebCoreModule, Y.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,844 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.YApplicationModule, Y.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,845 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.YCoreModule, Y.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,845 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,845 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,846 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,846 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.MailKit.AbpMailKitModule, Abp.MailKit, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,846 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Quartz.AbpQuartzModule, Abp.Quartz, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,847 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,847 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.EntityFrameworkCore.YEntityFrameworkModule, Y.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,848 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,848 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,849 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,849 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,850 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,850 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:52,855 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+INFO  2019-11-17 18:00:53,241 [1    ] Quartz.Impl.StdSchedulerFactory          - Default Quartz.NET properties loaded from embedded resource file
+DEBUG 2019-11-17 18:00:53,350 [1    ] Quartz.Simpl.TaskSchedulingThreadPool    - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+INFO  2019-11-17 18:00:53,376 [1    ] Quartz.Core.SchedulerSignalerImpl        - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+INFO  2019-11-17 18:00:53,401 [1    ] Quartz.Core.QuartzScheduler              - Quartz Scheduler v.3.0.7.0 created.
+INFO  2019-11-17 18:00:53,402 [1    ] Quartz.Simpl.RAMJobStore                 - RAMJobStore initialized.
+INFO  2019-11-17 18:00:53,412 [1    ] Quartz.Core.QuartzScheduler              - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+INFO  2019-11-17 18:00:53,412 [1    ] Quartz.Impl.StdSchedulerFactory          - Quartz scheduler 'DefaultQuartzScheduler' initialized
+INFO  2019-11-17 18:00:53,412 [1    ] Quartz.Impl.StdSchedulerFactory          - Quartz scheduler version: 3.0.7.0
+INFO  2019-11-17 18:00:53,414 [1    ] Quartz.Core.QuartzScheduler              - JobFactory set to: Abp.Quartz.AbpQuartzJobFactory
+DEBUG 2019-11-17 18:00:53,470 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-17 18:00:53,470 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-17 18:00:53,470 [1    ] o.Configuration.LanguageManagementConfig - Converted Y (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-17 18:00:53,470 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-17 18:00:53,969 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Y.EntityFrameworkCore.YDbContext, Y.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:00:55,472 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-11-17 18:00:55,544 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-11-17 18:00:55,570 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-11-17 18:00:55,585 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Y
+DEBUG 2019-11-17 18:00:55,597 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-11-17 18:00:55,725 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+INFO  2019-11-17 18:00:55,732 [1    ] Quartz.Impl.StdSchedulerFactory          - Default Quartz.NET properties loaded from embedded resource file
+DEBUG 2019-11-17 18:00:55,736 [1    ] Abp.Quartz.QuartzScheduleJobManager      - Start background worker: Abp.Quartz.QuartzScheduleJobManager
+INFO  2019-11-17 18:00:55,737 [1    ] Quartz.Impl.StdSchedulerFactory          - Default Quartz.NET properties loaded from embedded resource file
+INFO  2019-11-17 18:00:55,754 [1    ] Quartz.Core.QuartzScheduler              - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+INFO  2019-11-17 18:00:55,755 [1    ] Abp.Quartz.QuartzScheduleJobManager      - Started QuartzScheduleJobManager
+DEBUG 2019-11-17 18:00:55,760 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:00:55,884 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 59 classes define auto mapping attributes
+DEBUG 2019-11-17 18:00:55,884 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-11-17 18:00:55,896 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.CreateOrEditUserDto
+DEBUG 2019-11-17 18:00:55,900 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.CreateUserDto
+DEBUG 2019-11-17 18:00:55,900 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.LoginViewModel
+DEBUG 2019-11-17 18:00:55,901 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.UserDto
+DEBUG 2019-11-17 18:00:55,902 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.UserMobileDto
+DEBUG 2019-11-17 18:00:55,902 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-11-17 18:00:55,903 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-11-17 18:00:55,903 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-11-17 18:00:55,903 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.MultiTenancy.Dto.TenantDto
+DEBUG 2019-11-17 18:00:55,904 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Roles.Dto.CreateRoleDto
+DEBUG 2019-11-17 18:00:55,904 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Roles.Dto.PermissionDto
+DEBUG 2019-11-17 18:00:55,905 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Roles.Dto.RoleDto
+DEBUG 2019-11-17 18:00:55,907 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CareerDto
+DEBUG 2019-11-17 18:00:55,907 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditCareerDto
+DEBUG 2019-11-17 18:00:55,908 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CityDto
+DEBUG 2019-11-17 18:00:55,908 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditCityDto
+DEBUG 2019-11-17 18:00:55,908 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditContactDto
+DEBUG 2019-11-17 18:00:55,909 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ContactDto
+DEBUG 2019-11-17 18:00:55,909 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ContactUpdateDto
+DEBUG 2019-11-17 18:00:55,909 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditCurrencyDto
+DEBUG 2019-11-17 18:00:55,910 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CurrencyDto
+DEBUG 2019-11-17 18:00:55,910 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CurrencyUpdateDto
+DEBUG 2019-11-17 18:00:55,910 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditDesiredCareerDto
+DEBUG 2019-11-17 18:00:55,910 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.DesiredCareerDto
+DEBUG 2019-11-17 18:00:55,911 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditDesiredLocationJobDto
+DEBUG 2019-11-17 18:00:55,911 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.LocationJobDto
+DEBUG 2019-11-17 18:00:55,911 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateCreateDto
+DEBUG 2019-11-17 18:00:55,911 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateDto
+DEBUG 2019-11-17 18:00:55,912 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateTranslationDto
+DEBUG 2019-11-17 18:00:55,912 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateUpdateDto
+DEBUG 2019-11-17 18:00:55,912 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditEmployerDto
+DEBUG 2019-11-17 18:00:55,913 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmployerDto
+DEBUG 2019-11-17 18:00:55,913 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditExperienceDto
+DEBUG 2019-11-17 18:00:55,913 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditJobCategoryDto
+DEBUG 2019-11-17 18:00:55,915 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.JobCategoryDto
+DEBUG 2019-11-17 18:00:55,916 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditJobSeekerDto
+DEBUG 2019-11-17 18:00:55,916 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.JobSeekerDto
+DEBUG 2019-11-17 18:00:55,917 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditKnowledgeDto
+DEBUG 2019-11-17 18:00:55,918 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.NewsLetterSubcriptionCreateDto
+DEBUG 2019-11-17 18:00:55,919 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.NewsLetterSubcriptionDto
+DEBUG 2019-11-17 18:00:55,920 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.NewsLetterSubcriptionUpdateDto
+DEBUG 2019-11-17 18:00:55,920 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditPostCategoryDto
+DEBUG 2019-11-17 18:00:55,921 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostCategoryDto
+DEBUG 2019-11-17 18:00:55,921 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostCategoryTranslationDto
+DEBUG 2019-11-17 18:00:55,922 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditPostDto
+DEBUG 2019-11-17 18:00:55,922 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostDto
+DEBUG 2019-11-17 18:00:55,923 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostTranslationDto
+DEBUG 2019-11-17 18:00:55,923 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ProductCreateDto
+DEBUG 2019-11-17 18:00:55,924 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ProductTranslationDto
+DEBUG 2019-11-17 18:00:55,924 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ProductUpdateDto
+DEBUG 2019-11-17 18:00:55,925 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.QuantityDiscountCreateOrEditDto
+DEBUG 2019-11-17 18:00:55,925 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.QuantityDiscountDto
+DEBUG 2019-11-17 18:00:55,925 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditTopicCategoryDto
+DEBUG 2019-11-17 18:00:55,926 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicCategoryDto
+DEBUG 2019-11-17 18:00:55,926 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicCategoryTranslationDto
+DEBUG 2019-11-17 18:00:55,926 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditTopicDto
+DEBUG 2019-11-17 18:00:55,927 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicDto
+DEBUG 2019-11-17 18:00:55,928 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicTranslationDto
+INFO  2019-11-17 18:01:05,955 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/index.html  
+INFO  2019-11-17 18:01:07,044 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1098.4918ms 200 text/html
+INFO  2019-11-17 18:01:07,125 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui.css  
+INFO  2019-11-17 18:01:07,125 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-11-17 18:01:07,133 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-bundle.js  
+INFO  2019-11-17 18:01:07,170 [12   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2019-11-17 18:01:07,170 [11   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2019-11-17 18:01:07,170 [10   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2019-11-17 18:01:07,184 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 51.5373ms 304 application/javascript
+INFO  2019-11-17 18:01:07,184 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 59.238ms 304 text/css
+INFO  2019-11-17 18:01:07,184 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 59.238ms 304 application/javascript
+INFO  2019-11-17 18:01:08,036 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/v1/swagger.json  
+INFO  2019-11-17 18:01:08,059 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/favicon-32x32.png  
+ERROR 2019-11-17 18:01:08,088 [10   ] harp.Web.Middleware.ImageSharpMiddleware - The image 'http://localhost:21123/swagger/favicon-32x32.png' could not be resolved
+INFO  2019-11-17 18:01:08,123 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2019-11-17 18:01:08,123 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 64.5961ms 200 image/png
+INFO  2019-11-17 18:01:08,968 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 931.9953ms 200 application/json;charset=utf-8
+DEBUG 2019-11-17 18:01:23,645 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:01:23,739 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobSeeker/GetAll?JobLocationId=1  
+INFO  2019-11-17 18:01:25,415 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:01:26,745 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.GetAll (Y.Application) with arguments (Y.Dto.JobSeekerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:01:27,043 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 295.754ms.
+INFO  2019-11-17 18:01:27,472 [10   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:01:27,521 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 2100.1689ms
+INFO  2019-11-17 18:01:27,541 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3801.4664ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:01:52,862 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:02:09,333 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobSeeker/GetAll?JobLocationId=1&CategoryId=1  
+INFO  2019-11-17 18:02:09,363 [4    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:02:09,377 [4    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.GetAll (Y.Application) with arguments (Y.Dto.JobSeekerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:02:09,411 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 34.3376ms.
+INFO  2019-11-17 18:02:09,426 [11   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:02:09,427 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 63.7711ms
+INFO  2019-11-17 18:02:09,429 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 95.2944ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:02:17,539 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:02:41,873 [19   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21123/api/services/app/JobSeeker/CreateOrUpdate application/json-patch+json 232
+INFO  2019-11-17 18:02:41,887 [19   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-11-17 18:02:41,888 [19   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21123 does not have permission to access the resource.
+INFO  2019-11-17 18:02:41,909 [19   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "CreateOrUpdate", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.CreateOrUpdate (Y.Application)
+INFO  2019-11-17 18:02:41,909 [19   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-11-17 18:02:41,909 [19   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21123 does not have permission to access the resource.
+INFO  2019-11-17 18:02:42,156 [19   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.CreateOrUpdate (Y.Application) with arguments (Y.Dto.CreateOrEditJobSeekerDto) - Validation state: Valid
+INFO  2019-11-17 18:02:42,243 [18   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.CreateOrUpdate (Y.Application), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 86.1928ms.
+INFO  2019-11-17 18:02:42,252 [19   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:02:42,255 [19   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.CreateOrUpdate (Y.Application) in 345.7559ms
+INFO  2019-11-17 18:02:42,258 [19   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 385.0954ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:02:42,505 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:03:09,194 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:03:33,932 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:03:46,615 [19   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobSeeker/GetAll?JobLocationId=7  
+INFO  2019-11-17 18:03:46,627 [19   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:03:46,635 [19   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.GetAll (Y.Application) with arguments (Y.Dto.JobSeekerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:03:46,666 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 31.0007ms.
+INFO  2019-11-17 18:03:46,677 [22   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:03:46,678 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 50.8257ms
+INFO  2019-11-17 18:03:46,678 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 62.9086ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:03:57,356 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:04:23,071 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:04:49,900 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:05:14,137 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:05:20,559 [24   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui.css  
+INFO  2019-11-17 18:05:20,563 [24   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2019-11-17 18:05:20,563 [24   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4.0829ms 304 text/css
+INFO  2019-11-17 18:05:20,704 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-standalone-preset.js.map  
+INFO  2019-11-17 18:05:20,712 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-bundle.js.map  
+INFO  2019-11-17 18:05:20,777 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui.css.map  
+INFO  2019-11-17 18:05:20,781 [31   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css.map'. Physical path: 'N/A'
+INFO  2019-11-17 18:05:20,781 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3.6948ms 200 text/plain
+INFO  2019-11-17 18:05:20,809 [27   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js.map'. Physical path: 'N/A'
+INFO  2019-11-17 18:05:20,815 [27   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 110.7767ms 200 text/plain
+INFO  2019-11-17 18:05:20,882 [27   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js.map'. Physical path: 'N/A'
+INFO  2019-11-17 18:05:20,882 [27   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 170.2731ms 200 text/plain
+INFO  2019-11-17 18:05:30,737 [27   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobSeeker/GetAll?JobLocationId=7  
+INFO  2019-11-17 18:05:30,754 [27   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:05:30,770 [27   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.GetAll (Y.Application) with arguments (Y.Dto.JobSeekerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:05:30,885 [27   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 115.3038ms.
+INFO  2019-11-17 18:05:30,968 [27   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:05:30,968 [27   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 214.0098ms
+INFO  2019-11-17 18:05:30,969 [27   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 232.1533ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:05:41,168 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:06:05,439 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:06:34,354 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:07:00,490 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:07:30,090 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:07:53,361 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:08:21,589 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:08:44,282 [25   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/index.html  
+INFO  2019-11-17 18:08:44,303 [25   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 21.1523ms 200 text/html
+INFO  2019-11-17 18:08:44,386 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui.css  
+INFO  2019-11-17 18:08:44,389 [40   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2019-11-17 18:08:44,389 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3.3104ms 304 text/css
+INFO  2019-11-17 18:08:44,389 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-bundle.js  
+INFO  2019-11-17 18:08:44,390 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-11-17 18:08:44,391 [40   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2019-11-17 18:08:44,392 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.1468ms 304 application/javascript
+INFO  2019-11-17 18:08:44,392 [39   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2019-11-17 18:08:44,392 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.1762ms 304 application/javascript
+INFO  2019-11-17 18:08:44,978 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-bundle.js.map  
+INFO  2019-11-17 18:08:44,982 [39   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js.map was not modified
+INFO  2019-11-17 18:08:44,982 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4.0146ms 304 text/plain
+INFO  2019-11-17 18:08:45,027 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui.css.map  
+INFO  2019-11-17 18:08:45,030 [39   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css.map was not modified
+INFO  2019-11-17 18:08:45,030 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3.0552ms 304 text/plain
+INFO  2019-11-17 18:08:45,311 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/v1/swagger.json  
+INFO  2019-11-17 18:08:45,326 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/favicon-32x32.png  
+ERROR 2019-11-17 18:08:45,328 [39   ] harp.Web.Middleware.ImageSharpMiddleware - The image 'http://localhost:21123/swagger/favicon-32x32.png' could not be resolved
+INFO  2019-11-17 18:08:45,328 [39   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2019-11-17 18:08:45,328 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.4316ms 200 image/png
+INFO  2019-11-17 18:08:45,342 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-standalone-preset.js.map  
+INFO  2019-11-17 18:08:45,345 [40   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js.map was not modified
+INFO  2019-11-17 18:08:45,345 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3.2022ms 304 text/plain
+INFO  2019-11-17 18:08:45,554 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 242.8347ms 200 application/json;charset=utf-8
+DEBUG 2019-11-17 18:08:49,972 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:09:01,028 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobSeeker/GetAll?JobLocationId=7  
+INFO  2019-11-17 18:09:01,044 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:09:01,055 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.GetAll (Y.Application) with arguments (Y.Dto.JobSeekerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:09:01,155 [39   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 100.1399ms.
+INFO  2019-11-17 18:09:01,240 [39   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:09:01,241 [39   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 197.299ms
+INFO  2019-11-17 18:09:01,241 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 213.6417ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:09:17,833 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:09:43,725 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:10:08,569 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:10:36,043 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:10:59,933 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:11:24,775 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:11:56,726 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-11-17 18:11:56,838 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2019-11-17 18:11:56,877 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.Web.Host.Startup.YWebHostModule, Y.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,884 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.YWebCoreModule, Y.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,884 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.YApplicationModule, Y.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.YCoreModule, Y.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,886 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,886 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,886 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.MailKit.AbpMailKitModule, Abp.MailKit, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,887 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Quartz.AbpQuartzModule, Abp.Quartz, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,888 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,888 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.EntityFrameworkCore.YEntityFrameworkModule, Y.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,889 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,889 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,890 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,890 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,890 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,891 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:56,896 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+INFO  2019-11-17 18:11:57,265 [1    ] Quartz.Impl.StdSchedulerFactory          - Default Quartz.NET properties loaded from embedded resource file
+DEBUG 2019-11-17 18:11:57,344 [1    ] Quartz.Simpl.TaskSchedulingThreadPool    - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+INFO  2019-11-17 18:11:57,363 [1    ] Quartz.Core.SchedulerSignalerImpl        - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+INFO  2019-11-17 18:11:57,390 [1    ] Quartz.Core.QuartzScheduler              - Quartz Scheduler v.3.0.7.0 created.
+INFO  2019-11-17 18:11:57,392 [1    ] Quartz.Simpl.RAMJobStore                 - RAMJobStore initialized.
+INFO  2019-11-17 18:11:57,405 [1    ] Quartz.Core.QuartzScheduler              - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+INFO  2019-11-17 18:11:57,405 [1    ] Quartz.Impl.StdSchedulerFactory          - Quartz scheduler 'DefaultQuartzScheduler' initialized
+INFO  2019-11-17 18:11:57,405 [1    ] Quartz.Impl.StdSchedulerFactory          - Quartz scheduler version: 3.0.7.0
+INFO  2019-11-17 18:11:57,408 [1    ] Quartz.Core.QuartzScheduler              - JobFactory set to: Abp.Quartz.AbpQuartzJobFactory
+DEBUG 2019-11-17 18:11:57,461 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-17 18:11:57,461 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-17 18:11:57,461 [1    ] o.Configuration.LanguageManagementConfig - Converted Y (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-17 18:11:57,461 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-17 18:11:57,999 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Y.EntityFrameworkCore.YDbContext, Y.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-17 18:11:58,872 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-11-17 18:11:58,920 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-11-17 18:11:58,957 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-11-17 18:11:58,964 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Y
+DEBUG 2019-11-17 18:11:58,969 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-11-17 18:11:59,054 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+INFO  2019-11-17 18:11:59,058 [1    ] Quartz.Impl.StdSchedulerFactory          - Default Quartz.NET properties loaded from embedded resource file
+DEBUG 2019-11-17 18:11:59,063 [1    ] Abp.Quartz.QuartzScheduleJobManager      - Start background worker: Abp.Quartz.QuartzScheduleJobManager
+INFO  2019-11-17 18:11:59,063 [1    ] Quartz.Impl.StdSchedulerFactory          - Default Quartz.NET properties loaded from embedded resource file
+INFO  2019-11-17 18:11:59,080 [1    ] Quartz.Core.QuartzScheduler              - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+INFO  2019-11-17 18:11:59,082 [1    ] Abp.Quartz.QuartzScheduleJobManager      - Started QuartzScheduleJobManager
+DEBUG 2019-11-17 18:11:59,088 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:11:59,157 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 59 classes define auto mapping attributes
+DEBUG 2019-11-17 18:11:59,158 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-11-17 18:11:59,169 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.CreateOrEditUserDto
+DEBUG 2019-11-17 18:11:59,170 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.CreateUserDto
+DEBUG 2019-11-17 18:11:59,170 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.LoginViewModel
+DEBUG 2019-11-17 18:11:59,170 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.UserDto
+DEBUG 2019-11-17 18:11:59,171 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.UserMobileDto
+DEBUG 2019-11-17 18:11:59,171 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-11-17 18:11:59,171 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-11-17 18:11:59,171 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-11-17 18:11:59,172 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.MultiTenancy.Dto.TenantDto
+DEBUG 2019-11-17 18:11:59,172 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Roles.Dto.CreateRoleDto
+DEBUG 2019-11-17 18:11:59,172 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Roles.Dto.PermissionDto
+DEBUG 2019-11-17 18:11:59,172 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Roles.Dto.RoleDto
+DEBUG 2019-11-17 18:11:59,173 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CareerDto
+DEBUG 2019-11-17 18:11:59,173 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditCareerDto
+DEBUG 2019-11-17 18:11:59,173 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CityDto
+DEBUG 2019-11-17 18:11:59,173 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditCityDto
+DEBUG 2019-11-17 18:11:59,173 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditContactDto
+DEBUG 2019-11-17 18:11:59,174 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ContactDto
+DEBUG 2019-11-17 18:11:59,174 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ContactUpdateDto
+DEBUG 2019-11-17 18:11:59,174 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditCurrencyDto
+DEBUG 2019-11-17 18:11:59,174 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CurrencyDto
+DEBUG 2019-11-17 18:11:59,174 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CurrencyUpdateDto
+DEBUG 2019-11-17 18:11:59,175 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditDesiredCareerDto
+DEBUG 2019-11-17 18:11:59,175 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.DesiredCareerDto
+DEBUG 2019-11-17 18:11:59,175 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditDesiredLocationJobDto
+DEBUG 2019-11-17 18:11:59,175 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.LocationJobDto
+DEBUG 2019-11-17 18:11:59,175 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateCreateDto
+DEBUG 2019-11-17 18:11:59,175 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateDto
+DEBUG 2019-11-17 18:11:59,175 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateTranslationDto
+DEBUG 2019-11-17 18:11:59,176 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateUpdateDto
+DEBUG 2019-11-17 18:11:59,176 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditEmployerDto
+DEBUG 2019-11-17 18:11:59,176 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmployerDto
+DEBUG 2019-11-17 18:11:59,176 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditExperienceDto
+DEBUG 2019-11-17 18:11:59,176 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditJobCategoryDto
+DEBUG 2019-11-17 18:11:59,176 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.JobCategoryDto
+DEBUG 2019-11-17 18:11:59,177 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditJobSeekerDto
+DEBUG 2019-11-17 18:11:59,177 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.JobSeekerDto
+DEBUG 2019-11-17 18:11:59,177 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditKnowledgeDto
+DEBUG 2019-11-17 18:11:59,177 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.NewsLetterSubcriptionCreateDto
+DEBUG 2019-11-17 18:11:59,178 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.NewsLetterSubcriptionDto
+DEBUG 2019-11-17 18:11:59,178 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.NewsLetterSubcriptionUpdateDto
+DEBUG 2019-11-17 18:11:59,178 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditPostCategoryDto
+DEBUG 2019-11-17 18:11:59,178 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostCategoryDto
+DEBUG 2019-11-17 18:11:59,179 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostCategoryTranslationDto
+DEBUG 2019-11-17 18:11:59,179 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditPostDto
+DEBUG 2019-11-17 18:11:59,179 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostDto
+DEBUG 2019-11-17 18:11:59,180 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostTranslationDto
+DEBUG 2019-11-17 18:11:59,180 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ProductCreateDto
+DEBUG 2019-11-17 18:11:59,181 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ProductTranslationDto
+DEBUG 2019-11-17 18:11:59,181 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ProductUpdateDto
+DEBUG 2019-11-17 18:11:59,181 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.QuantityDiscountCreateOrEditDto
+DEBUG 2019-11-17 18:11:59,181 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.QuantityDiscountDto
+DEBUG 2019-11-17 18:11:59,182 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditTopicCategoryDto
+DEBUG 2019-11-17 18:11:59,182 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicCategoryDto
+DEBUG 2019-11-17 18:11:59,182 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicCategoryTranslationDto
+DEBUG 2019-11-17 18:11:59,182 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditTopicDto
+DEBUG 2019-11-17 18:11:59,183 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicDto
+DEBUG 2019-11-17 18:11:59,183 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicTranslationDto
+INFO  2019-11-17 18:12:09,475 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/index.html  
+INFO  2019-11-17 18:12:10,488 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1024.7018ms 200 text/html
+INFO  2019-11-17 18:12:10,646 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-11-17 18:12:10,646 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-bundle.js  
+INFO  2019-11-17 18:12:10,647 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui.css  
+INFO  2019-11-17 18:12:10,692 [11   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2019-11-17 18:12:10,692 [8    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2019-11-17 18:12:10,692 [10   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2019-11-17 18:12:10,705 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 58.6403ms 304 text/css
+INFO  2019-11-17 18:12:10,705 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 58.6402ms 304 application/javascript
+INFO  2019-11-17 18:12:10,705 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 58.6403ms 304 application/javascript
+INFO  2019-11-17 18:12:10,844 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui.css.map  
+INFO  2019-11-17 18:12:10,847 [11   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css.map was not modified
+INFO  2019-11-17 18:12:10,847 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3.0283ms 304 text/plain
+INFO  2019-11-17 18:12:11,682 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-bundle.js.map  
+INFO  2019-11-17 18:12:11,685 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-standalone-preset.js.map  
+INFO  2019-11-17 18:12:11,685 [11   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js.map was not modified
+INFO  2019-11-17 18:12:11,685 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3.8837ms 304 text/plain
+INFO  2019-11-17 18:12:11,688 [14   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js.map was not modified
+INFO  2019-11-17 18:12:11,688 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3.3159ms 304 text/plain
+INFO  2019-11-17 18:12:11,925 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/v1/swagger.json  
+INFO  2019-11-17 18:12:11,937 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/favicon-32x32.png  
+ERROR 2019-11-17 18:12:11,967 [11   ] harp.Web.Middleware.ImageSharpMiddleware - The image 'http://localhost:21123/swagger/favicon-32x32.png' could not be resolved
+INFO  2019-11-17 18:12:12,017 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2019-11-17 18:12:12,018 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 80.4259ms 200 image/png
+INFO  2019-11-17 18:12:13,122 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1196.9399ms 200 application/json;charset=utf-8
+DEBUG 2019-11-17 18:12:24,555 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:12:28,229 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobSeeker/GetAll?JobLocationId=7  
+INFO  2019-11-17 18:12:30,622 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:12:32,115 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.GetAll (Y.Application) with arguments (Y.Dto.JobSeekerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:12:32,470 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 352.8987ms.
+INFO  2019-11-17 18:12:33,065 [11   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:12:33,137 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 2507.7265ms
+INFO  2019-11-17 18:12:33,169 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4940.2383ms 200 application/json; charset=utf-8
+INFO  2019-11-17 18:12:46,305 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobSeeker/GetAll?JobLocationId=1  
+INFO  2019-11-17 18:12:46,321 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:12:46,336 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.GetAll (Y.Application) with arguments (Y.Dto.JobSeekerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:12:46,574 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 238.2033ms.
+INFO  2019-11-17 18:12:46,735 [10   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:12:46,743 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 421.42ms
+INFO  2019-11-17 18:12:46,744 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 438.5807ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:12:51,851 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:12:53,188 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobSeeker/GetAll?JobLocationId=2  
+INFO  2019-11-17 18:12:53,201 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:12:53,210 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.GetAll (Y.Application) with arguments (Y.Dto.JobSeekerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:12:53,234 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 24.1202ms.
+INFO  2019-11-17 18:12:53,252 [14   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:12:53,252 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 50.8986ms
+INFO  2019-11-17 18:12:53,252 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 64.607ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:13:17,741 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:13:42,090 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:14:05,351 [20   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21123/api/services/app/JobCategory/CreateOrUpdate application/json-patch+json 74
+INFO  2019-11-17 18:14:05,368 [20   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-11-17 18:14:05,369 [20   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21123 does not have permission to access the resource.
+INFO  2019-11-17 18:14:05,399 [20   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "CreateOrUpdate", controller = "JobCategory"}. Executing action Y.Services.JobCategoryAppService.CreateOrUpdate (Y.Application)
+INFO  2019-11-17 18:14:05,400 [20   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-11-17 18:14:05,400 [20   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21123 does not have permission to access the resource.
+DEBUG 2019-11-17 18:14:05,712 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:14:05,820 [20   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobCategoryAppService.CreateOrUpdate (Y.Application) with arguments (Y.Dto.CreateOrEditJobCategoryDto) - Validation state: Valid
+INFO  2019-11-17 18:14:05,910 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobCategoryAppService.CreateOrUpdate (Y.Application), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 89.3159ms.
+INFO  2019-11-17 18:14:05,922 [14   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:14:05,924 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobCategoryAppService.CreateOrUpdate (Y.Application) in 525.1449ms
+INFO  2019-11-17 18:14:05,927 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 576.5157ms 200 application/json; charset=utf-8
+INFO  2019-11-17 18:14:13,098 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobCategory/GetAll  
+INFO  2019-11-17 18:14:13,127 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobCategory"}. Executing action Y.Services.JobCategoryAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:14:13,186 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobCategoryAppService.GetAll (Y.Application) with arguments (Y.Dto.JobCategoryFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:14:13,260 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobCategoryAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 73.874ms.
+INFO  2019-11-17 18:14:13,265 [15   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:14:13,273 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobCategoryAppService.GetAll (Y.Application) in 146.8476ms
+INFO  2019-11-17 18:14:13,274 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 175.4913ms 200 application/json; charset=utf-8
+INFO  2019-11-17 18:14:24,454 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21123/api/services/app/DesiredCareer/CreateOrUpdate application/json-patch+json 52
+INFO  2019-11-17 18:14:24,456 [14   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-11-17 18:14:24,456 [14   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21123 does not have permission to access the resource.
+INFO  2019-11-17 18:14:24,476 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "CreateOrUpdate", controller = "DesiredCareer"}. Executing action Y.Services.DesiredCareerAppService.CreateOrUpdate (Y.Application)
+INFO  2019-11-17 18:14:24,476 [14   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-11-17 18:14:24,476 [14   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21123 does not have permission to access the resource.
+INFO  2019-11-17 18:14:24,621 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.DesiredCareerAppService.CreateOrUpdate (Y.Application) with arguments (Y.Dto.CreateOrEditDesiredCareerDto) - Validation state: Valid
+INFO  2019-11-17 18:14:24,672 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.DesiredCareerAppService.CreateOrUpdate (Y.Application), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 50.749ms.
+INFO  2019-11-17 18:14:24,677 [20   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:14:24,678 [20   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.DesiredCareerAppService.CreateOrUpdate (Y.Application) in 201.9587ms
+INFO  2019-11-17 18:14:24,678 [20   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 223.5677ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:14:30,059 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:14:57,234 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:15:23,340 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:15:47,777 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:16:02,673 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/DesiredCareer/GetAll  
+INFO  2019-11-17 18:16:02,698 [17   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "DesiredCareer"}. Executing action Y.Services.DesiredCareerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:16:02,757 [17   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.DesiredCareerAppService.GetAll (Y.Application) with arguments (Y.Dto.DesiredCareerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:16:03,342 [20   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.DesiredCareerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 584.7748ms.
+INFO  2019-11-17 18:16:03,352 [20   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:16:03,356 [20   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.DesiredCareerAppService.GetAll (Y.Application) in 657.8337ms
+INFO  2019-11-17 18:16:03,356 [20   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 683.4346ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:16:16,703 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:16:27,443 [20   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21123/api/services/app/DesiredCareer/CreateOrUpdate application/json-patch+json 52
+INFO  2019-11-17 18:16:27,445 [20   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-11-17 18:16:27,445 [20   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21123 does not have permission to access the resource.
+INFO  2019-11-17 18:16:27,454 [20   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "CreateOrUpdate", controller = "DesiredCareer"}. Executing action Y.Services.DesiredCareerAppService.CreateOrUpdate (Y.Application)
+INFO  2019-11-17 18:16:27,454 [20   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-11-17 18:16:27,454 [20   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21123 does not have permission to access the resource.
+INFO  2019-11-17 18:16:27,463 [20   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.DesiredCareerAppService.CreateOrUpdate (Y.Application) with arguments (Y.Dto.CreateOrEditDesiredCareerDto) - Validation state: Valid
+ERROR 2019-11-17 18:16:27,700 [23   ] Mvc.ExceptionHandling.AbpExceptionFilter - An error occurred while updating the entries. See the inner exception for details.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_DesiredCareers_JobCategories_CategoryId". The conflict occurred in database "T.FW", table "dbo.JobCategories", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChangesAsync(CancellationToken cancellationToken) in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 224
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChangesAsync(CancellationToken cancellationToken) in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 170
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.InsertAndGetIdAsync(TEntity entity) in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\Repositories\EfCoreRepositoryBaseOfTEntityAndTPrimaryKey.cs:line 154
+   at Abp.Threading.InternalAsyncHelper.AwaitTaskWithPostActionAndFinallyAndGetResult[T](Task`1 actualReturnValue, Func`1 postAction, Action`1 finalAction) in D:\Github\aspnetboilerplate\src\Abp\Threading\InternalAsyncHelper.cs:line 113
+   at Y.Services.DesiredCareerAppService.CreateUserAsync(CreateOrEditDesiredCareerDto input) in C:\Users\lent9\Downloads\lent\Y.Framework.Core\src\Y.Application\DesiredCareer\DesiredCareerAppService.cs:line 104
+   at Abp.Threading.InternalAsyncHelper.AwaitTaskWithPostActionAndFinally(Task actualReturnValue, Func`1 postAction, Action`1 finalAction) in D:\Github\aspnetboilerplate\src\Abp\Threading\InternalAsyncHelper.cs:line 35
+   at Y.Services.DesiredCareerAppService.CreateOrUpdate(CreateOrEditDesiredCareerDto input) in C:\Users\lent9\Downloads\lent\Y.Framework.Core\src\Y.Application\DesiredCareer\DesiredCareerAppService.cs:line 81
+   at lambda_method(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.AwaitableResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+INFO  2019-11-17 18:16:27,822 [23   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:16:27,826 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.DesiredCareerAppService.CreateOrUpdate (Y.Application) in 371.2576ms
+INFO  2019-11-17 18:16:27,826 [23   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 383.3094ms 500 application/json; charset=utf-8
+DEBUG 2019-11-17 18:16:41,019 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:17:04,682 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:17:19,776 [23   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobCategory/GetAll  
+INFO  2019-11-17 18:17:19,786 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobCategory"}. Executing action Y.Services.JobCategoryAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:17:19,796 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobCategoryAppService.GetAll (Y.Application) with arguments (Y.Dto.JobCategoryFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:17:19,808 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobCategoryAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 10.981ms.
+INFO  2019-11-17 18:17:19,842 [23   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:17:19,842 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobCategoryAppService.GetAll (Y.Application) in 55.8064ms
+INFO  2019-11-17 18:17:19,843 [23   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 67.2731ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:17:32,965 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-17 18:17:56,237 [23   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/api/services/app/JobSeeker/GetAll?CategoryId=3  
+INFO  2019-11-17 18:17:56,250 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "JobSeeker"}. Executing action Y.Services.JobSeekerAppService.GetAll (Y.Application)
+INFO  2019-11-17 18:17:56,260 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Services.JobSeekerAppService.GetAll (Y.Application) with arguments (Y.Dto.JobSeekerFilterDto) - Validation state: Valid
+INFO  2019-11-17 18:17:56,288 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Services.JobSeekerAppService.GetAll (Y.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 28.1703ms.
+INFO  2019-11-17 18:17:56,300 [29   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-11-17 18:17:56,300 [29   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 49.9711ms
+INFO  2019-11-17 18:17:56,301 [29   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.5346ms 200 application/json; charset=utf-8
+DEBUG 2019-11-17 18:17:59,668 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:18:27,561 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:18:55,637 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:19:21,844 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:19:48,827 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:20:16,953 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:20:43,884 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:21:11,684 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:21:37,441 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:22:03,221 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:22:27,430 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:22:55,245 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:23:19,983 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:23:47,002 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:24:13,958 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:24:41,813 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:25:07,253 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:25:36,394 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:26:05,289 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:26:31,906 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:26:58,265 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:27:23,398 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:27:46,473 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:28:14,721 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:28:37,979 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:29:02,991 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:29:26,010 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:29:52,473 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:30:15,531 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:30:43,645 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:31:13,391 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:31:38,330 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:32:03,689 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:32:30,123 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:32:55,080 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:33:18,532 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:33:44,979 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:34:14,365 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:34:42,187 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:35:05,930 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:35:33,656 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:35:57,904 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:36:21,713 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:36:45,732 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:37:15,258 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:37:41,206 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:38:10,486 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:38:38,590 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:39:04,131 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:39:32,369 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:39:56,827 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:40:26,683 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:40:50,072 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:41:15,559 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:41:45,254 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:42:12,416 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:42:41,258 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:43:06,914 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:43:34,931 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:44:04,132 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:44:30,087 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:44:57,540 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:45:20,748 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:45:49,818 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:46:19,202 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:46:45,245 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:47:09,769 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:47:38,425 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:48:08,420 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:48:34,423 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:48:57,798 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:49:26,016 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 18:49:50,422 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:18:39,450 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:19:05,619 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:19:34,268 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:20:01,944 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:20:28,998 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:20:57,461 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:21:24,603 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:21:48,863 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:22:13,790 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:22:41,762 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:23:06,116 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:23:34,734 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:24:03,927 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:24:33,521 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:24:58,642 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:25:22,565 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:25:46,415 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:26:10,943 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:26:38,556 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:27:02,858 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:27:31,673 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:27:59,995 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:28:29,707 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:28:56,100 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:29:20,817 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:29:43,828 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:30:09,714 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:30:38,558 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:31:04,300 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:31:33,048 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:31:57,179 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:32:21,269 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:32:50,560 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:33:14,726 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:33:37,998 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:34:01,263 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:34:27,051 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:34:54,857 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:35:20,346 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:35:45,402 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:36:14,214 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:36:43,781 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:37:09,990 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:37:35,396 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:38:05,125 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:38:33,983 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:38:59,591 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:39:28,697 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:39:55,485 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:40:23,698 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:40:53,116 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:41:21,322 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:41:47,978 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:42:13,489 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:42:39,099 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:43:04,891 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:43:29,996 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:43:53,995 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:44:18,166 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:44:42,682 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:45:10,767 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:45:35,663 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:46:03,966 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:46:31,353 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:46:56,678 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:47:21,474 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:47:46,548 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:48:14,156 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:48:37,951 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:49:06,750 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:49:33,999 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:50:03,045 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:50:28,934 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:50:52,779 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:51:22,546 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:51:50,088 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:52:18,253 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:52:43,436 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:53:11,164 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:53:34,264 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:54:00,989 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:54:26,178 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:54:50,467 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-17 19:55:15,283 [7    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 11:58:32,415 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-11-18 11:58:32,519 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2019-11-18 11:58:32,580 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.Web.Host.Startup.YWebHostModule, Y.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,589 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.YWebCoreModule, Y.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,590 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.YApplicationModule, Y.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,591 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.YCoreModule, Y.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,592 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,593 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,593 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.MailKit.AbpMailKitModule, Abp.MailKit, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,596 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Quartz.AbpQuartzModule, Abp.Quartz, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,598 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Y.EntityFrameworkCore.YEntityFrameworkModule, Y.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,601 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,602 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,602 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,603 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,603 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,604 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:32,612 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+INFO  2019-11-18 11:58:33,573 [1    ] Quartz.Impl.StdSchedulerFactory          - Default Quartz.NET properties loaded from embedded resource file
+DEBUG 2019-11-18 11:58:33,763 [1    ] Quartz.Simpl.TaskSchedulingThreadPool    - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+INFO  2019-11-18 11:58:33,866 [1    ] Quartz.Core.SchedulerSignalerImpl        - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+INFO  2019-11-18 11:58:33,904 [1    ] Quartz.Core.QuartzScheduler              - Quartz Scheduler v.3.0.7.0 created.
+INFO  2019-11-18 11:58:33,906 [1    ] Quartz.Simpl.RAMJobStore                 - RAMJobStore initialized.
+INFO  2019-11-18 11:58:33,921 [1    ] Quartz.Core.QuartzScheduler              - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+INFO  2019-11-18 11:58:33,921 [1    ] Quartz.Impl.StdSchedulerFactory          - Quartz scheduler 'DefaultQuartzScheduler' initialized
+INFO  2019-11-18 11:58:33,922 [1    ] Quartz.Impl.StdSchedulerFactory          - Quartz scheduler version: 3.0.7.0
+INFO  2019-11-18 11:58:33,924 [1    ] Quartz.Core.QuartzScheduler              - JobFactory set to: Abp.Quartz.AbpQuartzJobFactory
+DEBUG 2019-11-18 11:58:34,198 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-18 11:58:34,199 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-18 11:58:34,199 [1    ] o.Configuration.LanguageManagementConfig - Converted Y (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-18 11:58:34,200 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-18 11:58:34,935 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Y.EntityFrameworkCore.YDbContext, Y.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-18 11:58:36,111 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-11-18 11:58:36,173 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-11-18 11:58:36,191 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-11-18 11:58:36,199 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Y
+DEBUG 2019-11-18 11:58:36,204 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-11-18 11:58:36,292 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+INFO  2019-11-18 11:58:36,297 [1    ] Quartz.Impl.StdSchedulerFactory          - Default Quartz.NET properties loaded from embedded resource file
+DEBUG 2019-11-18 11:58:36,301 [1    ] Abp.Quartz.QuartzScheduleJobManager      - Start background worker: Abp.Quartz.QuartzScheduleJobManager
+INFO  2019-11-18 11:58:36,302 [1    ] Quartz.Impl.StdSchedulerFactory          - Default Quartz.NET properties loaded from embedded resource file
+INFO  2019-11-18 11:58:36,323 [1    ] Quartz.Core.QuartzScheduler              - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+INFO  2019-11-18 11:58:36,324 [1    ] Abp.Quartz.QuartzScheduleJobManager      - Started QuartzScheduleJobManager
+DEBUG 2019-11-18 11:58:36,331 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 11:58:36,408 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 59 classes define auto mapping attributes
+DEBUG 2019-11-18 11:58:36,408 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-11-18 11:58:36,419 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.CreateOrEditUserDto
+DEBUG 2019-11-18 11:58:36,420 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.CreateUserDto
+DEBUG 2019-11-18 11:58:36,420 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.LoginViewModel
+DEBUG 2019-11-18 11:58:36,420 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.UserDto
+DEBUG 2019-11-18 11:58:36,421 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Users.Dto.UserMobileDto
+DEBUG 2019-11-18 11:58:36,421 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-11-18 11:58:36,421 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-11-18 11:58:36,421 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-11-18 11:58:36,421 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.MultiTenancy.Dto.TenantDto
+DEBUG 2019-11-18 11:58:36,421 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Roles.Dto.CreateRoleDto
+DEBUG 2019-11-18 11:58:36,421 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Roles.Dto.PermissionDto
+DEBUG 2019-11-18 11:58:36,422 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Roles.Dto.RoleDto
+DEBUG 2019-11-18 11:58:36,423 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CareerDto
+DEBUG 2019-11-18 11:58:36,423 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditCareerDto
+DEBUG 2019-11-18 11:58:36,423 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CityDto
+DEBUG 2019-11-18 11:58:36,423 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditCityDto
+DEBUG 2019-11-18 11:58:36,424 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditContactDto
+DEBUG 2019-11-18 11:58:36,424 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ContactDto
+DEBUG 2019-11-18 11:58:36,424 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ContactUpdateDto
+DEBUG 2019-11-18 11:58:36,425 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditCurrencyDto
+DEBUG 2019-11-18 11:58:36,425 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CurrencyDto
+DEBUG 2019-11-18 11:58:36,425 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CurrencyUpdateDto
+DEBUG 2019-11-18 11:58:36,426 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditDesiredCareerDto
+DEBUG 2019-11-18 11:58:36,426 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.DesiredCareerDto
+DEBUG 2019-11-18 11:58:36,426 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditDesiredLocationJobDto
+DEBUG 2019-11-18 11:58:36,427 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.LocationJobDto
+DEBUG 2019-11-18 11:58:36,427 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateCreateDto
+DEBUG 2019-11-18 11:58:36,428 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateDto
+DEBUG 2019-11-18 11:58:36,428 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateTranslationDto
+DEBUG 2019-11-18 11:58:36,428 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmailTemplateUpdateDto
+DEBUG 2019-11-18 11:58:36,428 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditEmployerDto
+DEBUG 2019-11-18 11:58:36,429 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.EmployerDto
+DEBUG 2019-11-18 11:58:36,429 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditExperienceDto
+DEBUG 2019-11-18 11:58:36,429 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditJobCategoryDto
+DEBUG 2019-11-18 11:58:36,429 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.JobCategoryDto
+DEBUG 2019-11-18 11:58:36,429 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditJobSeekerDto
+DEBUG 2019-11-18 11:58:36,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.JobSeekerDto
+DEBUG 2019-11-18 11:58:36,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditKnowledgeDto
+DEBUG 2019-11-18 11:58:36,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.NewsLetterSubcriptionCreateDto
+DEBUG 2019-11-18 11:58:36,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.NewsLetterSubcriptionDto
+DEBUG 2019-11-18 11:58:36,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.NewsLetterSubcriptionUpdateDto
+DEBUG 2019-11-18 11:58:36,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditPostCategoryDto
+DEBUG 2019-11-18 11:58:36,431 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostCategoryDto
+DEBUG 2019-11-18 11:58:36,431 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostCategoryTranslationDto
+DEBUG 2019-11-18 11:58:36,431 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditPostDto
+DEBUG 2019-11-18 11:58:36,432 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostDto
+DEBUG 2019-11-18 11:58:36,432 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.PostTranslationDto
+DEBUG 2019-11-18 11:58:36,432 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ProductCreateDto
+DEBUG 2019-11-18 11:58:36,433 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ProductTranslationDto
+DEBUG 2019-11-18 11:58:36,433 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.ProductUpdateDto
+DEBUG 2019-11-18 11:58:36,433 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.QuantityDiscountCreateOrEditDto
+DEBUG 2019-11-18 11:58:36,433 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.QuantityDiscountDto
+DEBUG 2019-11-18 11:58:36,433 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditTopicCategoryDto
+DEBUG 2019-11-18 11:58:36,434 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicCategoryDto
+DEBUG 2019-11-18 11:58:36,434 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicCategoryTranslationDto
+DEBUG 2019-11-18 11:58:36,434 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.CreateOrEditTopicDto
+DEBUG 2019-11-18 11:58:36,435 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicDto
+DEBUG 2019-11-18 11:58:36,435 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Y.Dto.TopicTranslationDto
+INFO  2019-11-18 11:58:49,811 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/  
+INFO  2019-11-18 11:58:53,372 [5    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action Y.Web.Host.Controllers.HomeController.Index (Y.Web.Host)
+INFO  2019-11-18 11:58:54,197 [5    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Y.Web.Host.Controllers.HomeController.Index (Y.Web.Host) - Validation state: Valid
+INFO  2019-11-18 11:58:54,205 [5    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Y.Web.Host.Controllers.HomeController.Index (Y.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 3.8775ms.
+INFO  2019-11-18 11:58:54,749 [5    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-11-18 11:58:54,779 [5    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Web.Host.Controllers.HomeController.Index (Y.Web.Host) in 1396.0802ms
+INFO  2019-11-18 11:58:55,005 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5205.9314ms 302 
+INFO  2019-11-18 11:58:55,028 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger  
+INFO  2019-11-18 11:58:55,066 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 38.5036ms 301 
+INFO  2019-11-18 11:58:55,087 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/index.html  
+INFO  2019-11-18 11:58:55,149 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 61.9423ms 200 text/html
+INFO  2019-11-18 11:58:55,368 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/ui/abp.js  
+INFO  2019-11-18 11:58:55,372 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-bundle.js  
+INFO  2019-11-18 11:58:55,373 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/ui/abp.swagger.js  
+INFO  2019-11-18 11:58:55,375 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui.css  
+INFO  2019-11-18 11:58:55,439 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'C:\Users\lent9\Downloads\lent\Y.Framework.Core\src\Y.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2019-11-18 11:58:55,439 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 65.9756ms 200 application/javascript
+INFO  2019-11-18 11:58:55,439 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-11-18 11:58:55,440 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'C:\Users\lent9\Downloads\lent\Y.Framework.Core\src\Y.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2019-11-18 11:58:55,440 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 72.3954ms 200 application/javascript
+INFO  2019-11-18 11:58:55,477 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2019-11-18 11:58:55,483 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 107.6278ms 200 text/css
+INFO  2019-11-18 11:58:55,507 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2019-11-18 11:58:55,507 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 68.021ms 200 application/javascript
+INFO  2019-11-18 11:58:55,524 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2019-11-18 11:58:55,525 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 153.08ms 200 application/javascript
+INFO  2019-11-18 11:58:56,318 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/v1/swagger.json  
+INFO  2019-11-18 11:58:57,442 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1123.9538ms 200 application/json;charset=utf-8
+DEBUG 2019-11-18 11:59:03,717 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 11:59:31,240 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 11:59:59,254 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:00:26,780 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:00:53,807 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:01:18,566 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:01:48,305 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:02:12,028 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:02:37,120 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:03:01,031 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:03:27,382 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:03:56,974 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:04:20,518 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:04:45,107 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:05:12,031 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:05:35,578 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:06:03,010 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:06:29,660 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:06:58,759 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:07:28,604 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:07:53,827 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:08:17,984 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:08:47,713 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:09:12,829 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:09:36,807 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:10:05,594 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:10:33,809 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:11:02,642 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:11:28,644 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:11:57,356 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:12:23,413 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:12:53,219 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:13:17,640 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:13:43,226 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:14:10,410 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:14:37,136 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:15:01,008 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:15:27,810 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:15:54,495 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:16:18,703 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:16:44,677 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:17:08,945 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:17:35,541 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:18:04,088 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:18:31,000 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:18:58,726 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:19:24,379 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:19:53,054 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:20:20,623 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:20:45,942 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:21:13,801 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:21:43,232 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:22:12,878 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:22:37,508 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:23:06,230 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:23:33,006 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:23:57,394 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:24:24,241 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:24:48,817 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:25:16,929 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:25:43,659 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:26:10,979 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:26:34,415 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:27:01,362 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:27:30,567 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:27:56,478 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:28:25,834 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:28:55,401 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:29:18,693 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:29:43,063 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:30:11,832 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:30:35,532 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:31:00,328 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:31:27,143 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:31:54,171 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:32:17,733 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:32:42,834 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:33:08,187 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:33:35,743 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:34:05,488 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:34:33,660 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:35:01,871 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:35:27,619 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:35:51,619 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:36:16,099 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:36:40,331 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:37:04,181 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:37:32,756 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:37:56,465 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:38:20,176 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:38:46,048 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:39:11,244 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:39:36,250 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:40:02,192 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:40:30,480 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:40:57,102 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:41:24,645 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:41:53,314 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:42:20,146 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:42:47,141 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:43:16,113 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:43:44,476 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:44:08,665 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:44:33,229 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:45:01,805 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:45:30,310 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:45:53,561 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:46:21,668 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:46:45,783 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:47:09,838 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:47:38,018 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:48:07,604 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:48:35,101 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:49:01,281 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:49:25,748 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:49:49,267 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:50:13,448 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:50:37,416 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:51:02,914 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:51:26,954 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:51:56,013 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:52:20,656 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:52:49,217 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:53:18,714 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:53:46,760 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:54:14,982 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:54:40,785 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:55:10,480 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:55:38,847 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:56:02,847 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:56:32,331 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 12:56:59,881 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:31:54,416 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:32:19,678 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:32:48,348 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:33:12,681 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:33:40,104 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:34:06,137 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:34:31,281 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:34:59,660 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:35:24,463 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:35:52,066 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:36:21,703 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:36:44,705 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:37:11,995 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:37:37,177 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:38:04,453 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:38:31,548 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:39:00,658 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:39:25,949 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:39:50,416 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:40:19,482 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:40:46,729 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:41:09,877 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:41:37,661 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:42:00,728 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:42:25,049 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+INFO  2019-11-18 13:42:44,771 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/index.html  
+INFO  2019-11-18 13:42:45,327 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 557.59ms 200 text/html
+INFO  2019-11-18 13:42:45,381 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-11-18 13:42:45,382 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui-bundle.js  
+INFO  2019-11-18 13:42:45,383 [19   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/ui/abp.js  
+INFO  2019-11-18 13:42:45,387 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/swagger-ui.css  
+INFO  2019-11-18 13:42:45,421 [19   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/ui/abp.swagger.js  
+INFO  2019-11-18 13:42:45,467 [19   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'C:\Users\lent9\Downloads\lent\Y.Framework.Core\src\Y.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2019-11-18 13:42:45,467 [19   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 84.0972ms 200 application/javascript
+INFO  2019-11-18 13:42:45,468 [22   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'C:\Users\lent9\Downloads\lent\Y.Framework.Core\src\Y.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2019-11-18 13:42:45,468 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 47.013ms 200 application/javascript
+INFO  2019-11-18 13:42:45,500 [46   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2019-11-18 13:42:45,500 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 113.3124ms 200 text/css
+INFO  2019-11-18 13:42:45,522 [4    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2019-11-18 13:42:45,522 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 141.175ms 200 application/javascript
+INFO  2019-11-18 13:42:45,595 [4    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2019-11-18 13:42:45,595 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 214.8771ms 200 application/javascript
+INFO  2019-11-18 13:42:46,172 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21123/swagger/v1/swagger.json  
+INFO  2019-11-18 13:42:46,522 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 349.4258ms 200 application/json;charset=utf-8
+DEBUG 2019-11-18 13:42:49,411 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:43:18,532 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:43:44,302 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:44:13,789 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:44:40,860 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:45:07,430 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-11-18 13:45:31,021 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
