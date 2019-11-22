@@ -9,33 +9,26 @@ import {freeApiSevices} from './views/freeapi';
   selector: 'body',
   template: '<router-outlet></router-outlet>'
 })
-export class AppComponent implements OnInit {
+// export class AppComponent implements OnInit {
   
-  constructor(private router: Router) { }
+//   constructor(private router: Router) { }
 
-  ngOnInit() {
-    this.router.events.subscribe((evt) => {
-      if (!(evt instanceof NavigationEnd)) {
-        return;
-      }
-      window.scrollTo(0, 0);
-    });
-  }
-}
-export class App implements OnInit{
-  constructor(private _freeApiSevices: freeApiSevices){}
-
+//   ngOnInit() {
+//     this.router.events.subscribe((evt) => {
+//       if (!(evt instanceof NavigationEnd)) {
+//         return;
+//       }
+//       window.scrollTo(0, 0);
+//     });
+//   }
+// }
+export class AppComponent implements OnInit{
   lstCities: Cities [];
+  constructor(private dataService: DataService){}
 
   ngOnInit(){
-    this._freeApiSevices.getCity()
-    .subscribe
-    (
-      data=>
-      {
-        this.lstCities = data.data.result.items;
-      }
-    );
+    return this.dataService.getCities().subscribe(data=>this.lstCities=data);
+    console.log(this.lstCities);
   }
 }
 

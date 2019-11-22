@@ -74,8 +74,12 @@ import { MatSliderModule } from '@angular/material/slider';
   ],
   providers: [{
     provide: LocationStrategy,
-    useClass: HashLocationStrategy
-  },freeApiSevices],
+    useClass: HashLocationStrategy,
+    
+  },
+  freeApiSevices,
+  DataService,
+],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { }
