@@ -87,8 +87,13 @@ export const navItems: INavData[] = [
         name: 'Brand Buttons',
         url: '/buttons/brand-buttons',
         icon: 'icon-cursor'
-      }
+      },
     ]
+  },
+  {
+    name: 'Test',
+    url: '/test',
+    icon: 'icon-speedometer',
   },
   {
     divider: true
