@@ -6,6 +6,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { PerfectScrollbarModule } from 'ngx-perfect-scrollbar';
 import { PERFECT_SCROLLBAR_CONFIG } from 'ngx-perfect-scrollbar';
 import { PerfectScrollbarConfigInterface } from 'ngx-perfect-scrollbar';
+import{ freeApiSevices} from './views/freeapi';
 
 const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
   suppressScrollX: true
@@ -43,6 +44,8 @@ import { ChartsModule } from 'ng2-charts';
 import { HttpClient } from 'selenium-webdriver/http';
 import { HttpClientModule } from '@angular/common/http';
 import { DataService } from './data.service';
+import { from } from 'rxjs';
+import { MatSliderModule } from '@angular/material/slider';
 
 @NgModule({
   imports: [
@@ -58,7 +61,8 @@ import { DataService } from './data.service';
     BsDropdownModule.forRoot(),
     TabsModule.forRoot(),
     ChartsModule,
-    HttpClientModule
+    HttpClientModule,
+    MatSliderModule,
   ],
   declarations: [
     AppComponent,
@@ -71,7 +75,7 @@ import { DataService } from './data.service';
   providers: [{
     provide: LocationStrategy,
     useClass: HashLocationStrategy
-  },DataService],
+  },freeApiSevices],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { }
