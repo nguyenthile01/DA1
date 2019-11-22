@@ -34,6 +34,7 @@ namespace Y.Services
             var query = locationJobRepository.GetAll()
                 .Include(p => p.JobSeeker)
                 .Include(p => p.Cities)
+                //.Include(p=>p.CategoryJob)
                  .WhereIf(input.CityId != null, p => p.CityId == input.CityId)
                  .WhereIf(input.JobSeekerId != null, p => p.JobSeekerId == input.JobSeekerId);
 

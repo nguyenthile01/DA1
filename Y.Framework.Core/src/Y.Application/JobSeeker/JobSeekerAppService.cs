@@ -21,17 +21,52 @@ namespace Y.Services
    public class JobSeekerAppService : YAppServiceBase
     {
         private readonly IRepository<JobSeeker> jobSeekerRepository;
-        public JobSeekerAppService(IRepository<JobSeeker> jobSeekerRepository
+        private readonly IRepository<DesiredLocationJob> locationJobRepository;
+        private readonly IRepository<DesiredCareer> jobCategoryRepository;
+        //table jobcategory la bang nao e? trong Y.Core hay Y.App
+        public JobSeekerAppService(IRepository<JobSeeker> jobSeekerRepository,
+            IRepository<DesiredLocationJob> locationJobRepository,
+            IRepository<DesiredCareer> jobCategoryRepository
         )
         {
             this.jobSeekerRepository = jobSeekerRepository;
+            this.locationJobRepository = locationJobRepository;
+            this.jobCategoryRepository = jobCategoryRepository;
         }
+
         //[AbpAuthorize(PermissionNames.AdminPage_JobSeeker)]
         public virtual async Task<PagedResultDto<JobSeekerDto>> GetAll(JobSeekerFilterDto input)
         {
+            //giờ lấy danh sách serkerid từ category
+            var jobseekerWithCategoryIds = jobCategoryRepository
+                 .GetAll()
+                 .WhereIf(input.CategoryId != null, p => p.CategoryId == input.CategoryId)
+                 .Select(p => p.JobSeekerId)
+                 .Distinct()
+                 .ToList();
+
+            //lấy danh sách seekerid từ cityid
+
+            var jobseekerWithCityIds = locationJobRepository
+                .GetAll()
+                .WhereIf(input.JobLocationId != null, p => p.CityId == input.JobLocationId)
+                .Select(p => p.JobSeekerId)
+                .Distinct()
+                .ToList();
+
+            //giao 3 mảng lại dc danh sách seekerids
+            //chỗ này e tìm cách viết ra 1 tập hơp jobseekerids
+            //lấy data từ danh sách đó
+
+            var jobseekerids = jobseekerWithCityIds.Intersect(jobseekerWithCategoryIds);
+
 
             var query = jobSeekerRepository.GetAll()
-                 .WhereIf(input.Id != null, p => p.Id == input.Id);
+                .Where(p => jobseekerids.Contains(p.Id));
+
+
+            //var query = jobSeekerRepository.GetAll()
+            //     .WhereIf(input.Id != null, p => p.Id == input.Id);
 
             var totalCount = await query.CountAsync();
 
