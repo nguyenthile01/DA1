@@ -11,39 +11,51 @@ export const navItems: INavData[] = [
     }
   },
   {
+    name: 'User',
+    url: '/user',
+    icon: 'icon-cursor',
+    children: [
+      {
+        name: 'Admin',
+        url: '/user/admin',
+        icon: 'icon-cursor'
+      },
+      {
+        name: 'Employer',
+        url: '/user/employer',
+        icon: 'icon-cursor'
+      },
+      {
+        name: 'JobSeeker',
+        url: '/user/jobSeeker',
+        icon: 'icon-cursor'
+      }
+    ]
+  },
+  {
     title: true,
     name: 'Danh mục'
   },
   {
     name: 'Quản lý user',
-    url: '/base',
+    url: '/admin',
     icon: 'icon-puzzle',
     children: [
       {
-        name: 'Cards',
-        url: '/base/cards',
+        name: 'Admin',
+        url: '/admin/admin',
         icon: 'icon-puzzle'
       },
-      {
-        name: 'Carousels',
-        url: '/base/paginations',
-        icon: 'icon-puzzle'
-      },
-      {
-        name: 'Collapses',
-        url: '/base/collapses',
-        icon: 'icon-puzzle'
-      },
-      {
-        name: 'Forms',
-        url: '/base/forms',
-        icon: 'icon-puzzle'
-      },
-      {
-        name: 'Table',
-        url: '/base/tables',
-        icon: 'icon-puzzle'
-      },
+      // {
+      //   name: 'Employers',
+      //   url: '/admin/admin',
+      //   icon: 'icon-puzzle'
+      // },
+      // {
+      //   name: 'JobSeeker',
+      //   url: '/admin',
+      //   icon: 'icon-puzzle'
+      // },
     ]
   },
   {

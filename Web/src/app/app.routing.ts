@@ -9,6 +9,7 @@ import { P500Component } from './views/error/500.component';
 import { LoginComponent } from './views/login/login.component';
 import { RegisterComponent } from './views/register/register.component';
 
+
 export const routes: Routes = [
   {
     path: '',
@@ -51,6 +52,10 @@ export const routes: Routes = [
     },
     children: [
       {
+        path: 'user',
+        loadChildren: () => import('./views/user/user.module').then(m => m.UserModule)
+      },
+      {
         path: 'base',
         loadChildren: () => import('./views/base/base.module').then(m => m.BaseModule)
       },
@@ -81,7 +86,7 @@ export const routes: Routes = [
       {
         path: 'widgets',
         loadChildren: () => import('./views/widgets/widgets.module').then(m => m.WidgetsModule)
-      }
+      },
     ]
   },
   { path: '**', component: P404Component }

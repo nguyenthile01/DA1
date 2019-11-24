@@ -117,7 +117,7 @@ $ npm install
 ## Usage
 
 ``` bash
-# serve with hot reload at localhost:4200.
+# serve with hot reload at localhost:4300.
 $ ng serve
 
 # build for production with minification
