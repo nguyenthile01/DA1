@@ -15,9 +15,9 @@ namespace Y.Dto
     {
         public string Title { get; set; }
         public string Company { get; set; }
-        public bool IsCurrentJob { get; set; }
         public DateTime DateFrom { get; set; }
         public DateTime DateTo { get; set; }
+        public string YearsOfExperience { get; set; }
         public string Description { get; set; }
         public int? JobSeekerId { get; set; }
     }

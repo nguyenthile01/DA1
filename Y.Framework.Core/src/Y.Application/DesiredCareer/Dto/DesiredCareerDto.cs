@@ -14,5 +14,6 @@ namespace Y.Dto
         public int Id { get; set; }
         public int JobSeekerId { get; set; }
         public int JobCategoryId { get; set; }
+        public string JobCategoryName { get; set; }
     }
 }

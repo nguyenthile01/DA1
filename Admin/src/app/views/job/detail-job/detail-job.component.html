@@ -1,0 +1,123 @@
+<div class="animated fadeIn">
+    <div class="row">
+        <!--/.col-->
+
+        <div class="col-lg-12">
+            <div class="header-table d-flex justify-content-between">
+                <h2>Infomation Your Job</h2>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="form-group col-12">
+                            <label for="vat">Title(*)</label>
+                            <input type="text" [(ngModel)]="data.title" class="form-control" placeholder="VD: Nhân viên kinh doanh, nhân viên bán hàng...">
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="vat">Amount of people(*)</label>
+                            <input type="number" [(ngModel)]="data.amountOfPeople" class="form-control" placeholder="0,1,...">
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="vat">Rank at work(*)</label>
+                            <select class="custom-select" [(ngModel)]="data.rankAtWork" placeholder="Enter career">
+                                <!-- <option selected label="All" value=""></option> -->
+                                <option *ngFor="let item of rankAtWork" [ngValue]="item" [label]="item"></option>
+                              </select>
+                            <!-- <input type="text" [(ngModel)]="data.rankAtWork" class="form-control" placeholder="0,1,..."> -->
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="vat">Wage(*)</label>
+                            <input type="number" [(ngModel)]="data.wage" class="form-control" placeholder="0,1,...">
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="vat">Location(*)</label>
+                            <select class="custom-select" [(ngModel)]="data.cityId" placeholder="Enter career">
+                                <!-- <option selected label="All" value=""></option> -->
+                                <option *ngFor="let item of city" [ngValue]="item.id" [label]="item.name"></option>
+                              </select>
+                            <!-- <input type="text" [(ngModel)]="data.cityId" class="form-control" placeholder="0,1,..."> -->
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="vat">Career(*)</label>
+                            <select class="custom-select" [(ngModel)]="data.categoryId" placeholder="Enter career">
+                                <!-- <option selected label="All" value=""></option> -->
+                                <option *ngFor="let item of category" [ngValue]="item.id" [label]="item.name"></option>
+                              </select>
+                            <!-- <input type="text" [(ngModel)]="data.categoryId" class="form-control" placeholder="0,1,..."> -->
+                        </div>
+                        <div class="form-group col-6">
+                            <label></label>
+                            <div class="d-flex align-items-center">
+                                <label class="switch switch-label switch-pill switch-success switch-sm">
+                                            <input type="checkbox" class="switch-input" [(ngModel)]="data.isActive">
+                                            <span class="switch-slider" data-checked="On" data-unchecked="Off"></span>
+                                        </label>
+                            </div>
+                            <!-- <input type="text" [(ngModel)]="data.categoryId" class="form-control" placeholder="0,1,..."> -->
+                        </div>
+                        <div class="form-group col-12">
+                            <label>Description(*)</label>
+                            <editor [(ngModel)]="data.descJob"></editor>
+                            <!-- <textarea type="text" [(ngModel)]="data.descJob" class="form-control" placeholder=""></textarea> -->
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="header-table d-flex justify-content-between">
+                <h2>Request of Job</h2>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-4 form-group">
+                            <label>Experience</label>
+                            <select class="custom-select" [(ngModel)]="data.workExperience" placeholder="Enter experience">
+                                        <option *ngFor="let item of experience" [ngValue]="item" [label]="item"></option>
+                                      </select>
+                        </div>
+                        <div class="col-4 form-group">
+                            <label>Degree</label>
+                            <select class="custom-select" [(ngModel)]="data.degree" placeholder="Enter experience">
+                                <option *ngFor="let item of degree" [ngValue]="item" [label]="item"></option>
+                            </select>
+                        </div>
+                        <div class="col-4 form-group">
+                            <label>Gender</label>
+                            <select class="custom-select" [(ngModel)]="data.gender" placeholder="Enter experience">
+                                    <option *ngFor="let item of gender" [ngValue]="item" [label]="item"></option>
+                                </select>
+                        </div>
+                        <div class="col-6 form-group">
+                            <label>Deadline for submission</label>
+                            <input type="text" placeholder="Datepicker" [(ngModel)]="data.deadlineForSubmission" (ngModelChange)="data.deadlineForSubmission=$event" [minDate]="minDate" [maxDate]="maxDate" class="form-control" bsDatepicker [bsConfig]="{ adaptivePosition: true }">
+                            <!-- <input type="text" [(ngModel)]="data.categoryId" class="form-control" placeholder="0,1,..."> -->
+                        </div>
+                        <div class="col-6 form-group">
+                            <label>Profile language</label>
+                            <select class="custom-select" [(ngModel)]="data.profileLanguage" placeholder="Enter language">
+                                            <option *ngFor="let item of language" [ngValue]="item" [label]="item"></option>
+                                        </select>
+                        </div>
+                        <div class="form-group col-12">
+                            <label>Requirement(*)</label>
+                            <editor [(ngModel)]="data.jobRequirement"></editor>
+                            <!-- <textarea type="text" [(ngModel)]="data.descJob" class="form-control" placeholder=""></textarea> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-end col-12">
+            <button (click)="handleSave()" class="btn btn-primary">Save</button>
+        </div>
+    </div>
+    <!--/.col-->
+</div>
+<!--/.row-->
+
+<!--/.row-->
+
+<!--/.row-->

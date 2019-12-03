@@ -9,7 +9,7 @@
             "request": "launch",
             "reAttach": true,
             "name": "Launch localhost",
-            "url": "http://localhost:4200",
+            "url": "http://localhost:21123/",
             "webRoot": "${workspaceFolder}"
         },
         {

@@ -112,7 +112,7 @@ namespace Y.Services
             await postRepository.DeleteAsync(p => p.Id == input.Id);
         }
 
-        [AbpAuthorize(PermissionNames.AdminPage_Post)]
+        //[AbpAuthorize(PermissionNames.AdminPage_Post)]
         public async Task<CreateOrEditPostDto> GetForEdit(int? id)
         {
             var model = new CreateOrEditPostDto();

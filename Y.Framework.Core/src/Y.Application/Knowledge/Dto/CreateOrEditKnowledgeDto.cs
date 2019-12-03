@@ -15,7 +15,7 @@ namespace Y.Dto
     {
         public string Specialized { get; set; }
         public string School { get; set; }
-        public string Degree { get; set; }
+        public string Qualification { get; set; }
         public DateTime DateFrom { get; set; }
         public DateTime DateTo { get; set; }
         public string Achievement { get; set; }

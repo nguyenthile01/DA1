@@ -26,5 +26,7 @@ namespace Y.Dto
         public string PhoneNumber { get; set; }
         public string Address { get; set; }
         public string avtarUrl { get; set; }
+        public string ProfessionalTitle { get; set; }
+        public int YearsOfExperience { get; set; }
     }
 }

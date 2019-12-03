@@ -1,0 +1,38 @@
+<div class="containerSignUp">
+
+    <div class="d-flex align-items-center justify-content-center signUp">
+        <div class="row">
+            <div class="col-12 text-center">
+                Welcom to DPS Solution
+            </div>
+            <div class="col-12">
+                <label for="company">Company Name</label>
+                <input type="text" [(ngModel)]="filter.nameCompany" class="form-control" placeholder="Enter your company name">
+            </div>
+            <div class="col-12">
+                <label for="company">Company Email</label>
+                <input type="text" [(ngModel)]="filter.emailAddress" class="form-control" placeholder="Enter your company mail">
+            </div>
+            <div class="col-12">
+                <label for="company">Username</label>
+                <input type="text" [(ngModel)]="filter.userName" class="form-control" placeholder="Enter your username">
+            </div>
+            <div class="col-12">
+                <label for="company">Password</label>
+                <input type="text" [(ngModel)]="filter.password" class="form-control" placeholder="Enter your password">
+            </div>
+            <div class="col-12">
+                <label for="company">Phone number</label>
+                <input type="text" [(ngModel)]="filter.phoneNumber" class="form-control" placeholder="Enter your company phone number">
+            </div>
+            <div class="col-12">
+                <label for="company">Password</label>
+                <textarea rows="3" [(ngModel)]="filter.address" class="form-control" placeholder="Enter your company address"></textarea>
+            </div>
+            <div class="col-12 mt-5 d-flex justify-content-end">
+                <a class="btn btn-info" (click)="handleCreate()">Sign up</a>
+            </div>
+        </div>
+    </div>
+
+</div>

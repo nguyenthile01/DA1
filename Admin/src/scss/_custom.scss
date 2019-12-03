@@ -1,1 +1,13 @@
 // Here you can add other styles
+.header-table {
+    margin-bottom: 20px;
+}
+
+.action {
+    li {
+        padding: 10px 5px;
+        &:hover {
+            background: #bbb;
+        }
+    }
+}

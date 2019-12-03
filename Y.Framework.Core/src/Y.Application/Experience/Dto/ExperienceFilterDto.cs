@@ -12,5 +12,6 @@ namespace Y.Dto
     {
         public int? Id { get; set; }
         public int? JobSeekerId { get; set; }
+        public string YearsOfExperience { get; set; }
     }
 }

@@ -18,5 +18,7 @@ namespace Y.Core
         public string Address { get; set; }
         public string avtarUrl { get; set; }
         public string Desc { get; set; }
+        public string ProfessionalTitle { get; set; }
+        public int YearsOfExperience { get; set; }
     }
 }

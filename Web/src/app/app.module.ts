@@ -1,7 +1,10 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import {FormsModule } from '@angular/forms';
 import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
 
 import { PerfectScrollbarModule } from 'ngx-perfect-scrollbar';
 import { PERFECT_SCROLLBAR_CONFIG } from 'ngx-perfect-scrollbar';
@@ -46,6 +49,9 @@ import { HttpClientModule } from '@angular/common/http';
 import { DataService } from './data.service';
 import { from } from 'rxjs';
 import { MatSliderModule } from '@angular/material/slider';
+import { CreateJobSeekersComponent } from './views/create-job-seekers/create-job-seekers.component';
+import { CreateEmployersComponent } from './views/create-employers/create-employers.component';
+
 
 @NgModule({
   imports: [
@@ -63,6 +69,8 @@ import { MatSliderModule } from '@angular/material/slider';
     ChartsModule,
     HttpClientModule,
     MatSliderModule,
+    FormsModule,
+    CommonModule
   ],
   declarations: [
     AppComponent,
@@ -70,7 +78,9 @@ import { MatSliderModule } from '@angular/material/slider';
     P404Component,
     P500Component,
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
+    CreateJobSeekersComponent,
+    CreateEmployersComponent,
   ],
   providers: [{
     provide: LocationStrategy,

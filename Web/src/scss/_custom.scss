@@ -1,1 +1,15 @@
 // Here you can add other styles
+.header-content {
+    margin-bottom: 50px;
+}
+
+.content {
+    background: #fff;
+    padding: 25px 20px;
+    margin: 25px;
+    &:hover {
+        -webkit-box-shadow: -1px 2px 7px -1px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: -1px 2px 7px -1px rgba(0, 0, 0, 0.75);
+        box-shadow: -1px 2px 7px -1px rgba(0, 0, 0, 0.75);
+    }
+}

@@ -1,0 +1,160 @@
+<div class="animated fadeIn">
+    <div class="row">
+        <!--/.col-->
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row d-flex align-items-center">
+                        <div class="col-4">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq2hoHiDOisYIRM_JunR0i11q_KtT0-LWv6Ua3tuhE9nDnQu9b" alt="avatar user" class="img-thumbnail mw-100">
+                        </div>
+                        <div class="col-8">
+                            <div class="form-group">
+                                <label for="street">Name(*)</label>
+                                <input type="text" [(ngModel)]="data.name" class="form-control" id="street" placeholder="Enter street name">
+                            </div>
+                            <div class="form-group">
+                                <label for="street">Middle name(*)</label>
+                                <input type="email" [(ngModel)]="data.middleName" class="form-control" id="street" placeholder="Enter street name">
+                            </div>
+                            <div class="form-group">
+                                <label for="street">Surname(*)</label>
+                                <input type="email" [(ngModel)]="data.surName" class="form-control" id="street" placeholder="Enter street name">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group col-12">
+                            <label for="vat">Username(*)</label>
+                            <input type="text" [(ngModel)]="data.userName" class="form-control" id="vat" placeholder="enter company name">
+                        </div>
+                        <div class="form-group col-12">
+                            <label for="street">Email(*)</label>
+                            <input type="text" [(ngModel)]="data.emailAddress" ng-keypress="isNumberKey($event)" class="form-control" id="street" placeholder="Enter phone number">
+                        </div>
+                        <div class="form-group col-12">
+                            <label for="street">Password(*)</label>
+                            <input type="text" [(ngModel)]="data.password" ng-keypress="isNumberKey($event)" class="form-control" id="street" placeholder="Enter password">
+                        </div>
+                        <div class="form-group col-12">
+                            <label for="street">Phone number(*)</label>
+                            <input type="text" [(ngModel)]="data.phoneNumber" class="form-control" id="street" placeholder="Enter address">
+                        </div>
+                        <div class="form-group col-12">
+                            <label for="street">Address</label>
+                            <input type="text" [(ngModel)]="data.address" class="form-control" id="street" placeholder="Enter address">
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="street">Professional title</label>
+                            <input type="text" [(ngModel)]="data.professionalTitle" class="form-control" id="street" placeholder="Enter address">
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="street">Years of Experience</label>
+                            <input type="number" [(ngModel)]="data.yearsOfExperience" class="form-control" id="street" placeholder="Enter address">
+                        </div>
+                    </div>
+                    <div class="d-flex justify-content-end">
+                        <button type="button" class="btn btn-primary mr-4">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="fa fa-bank fa-lg"> Education History</h3>
+                    <hr>
+                    <div class="row" *ngFor="let item of knowledge">
+                        <div class="form-group col-12">
+                            <label for="street">Subject</label>
+                            <input type="text" [(ngModel)]="item.specialized" class="form-control" id="street" placeholder="Enter specialized">
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="street">School</label>
+                            <input type="text" [(ngModel)]="item.school" class="form-control" id="street" placeholder="Enter school">
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="street">Qualification</label>
+                            <input type="text" [(ngModel)]="item.qualification" class="form-control" id="street" placeholder="Enter qualification">
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="street">From month</label>
+                            <input type="text" placeholder="Enter from month" [bsConfig]="{ dateInputFormat: 'DD/MM/YYYY' }" class="form-control" bsDatepicker>
+                            <!-- <input type="text" [(ngModel)]="item.dateFrom | date" class="form-control" id="street" placeholder="Enter address"> -->
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="street">To month</label>
+                            <input type="text" placeholder="Enter to month" [bsConfig]="{ dateInputFormat: 'DD/MM/YYYY' }" class="form-control" bsDatepicker>
+                            <!-- <input type="text" [(ngModel)]="item.dateTo | date" class="form-control" id="street" placeholder="Enter address"> -->
+                        </div>
+                        <div class="form-group col-12">
+                            <label for="street">Achievement</label>
+                            <input type="text" [(ngModel)]="item.achievement" class="form-control" id="street" placeholder="Enter achievement">
+
+                        </div>
+                        <div class="d-flex justify-content-end form-group col-12">
+                            <button type="button" class="btn btn-primary mr-4" (click)="handleCreateOrEditKnowledge(item)">Save</button>
+                        </div>
+                        <div>
+                            <hr>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="fa fa-bank fa-lg"> Employment History</h3>
+                    <div class="row" *ngFor="let item of experience">
+                        <div class="form-group col-12">
+                            <label for="street">Position</label>
+                            <input type="text" [(ngModel)]="item.title" class="form-control" id="street" placeholder="Enter specialized">
+                        </div>
+                        <div class="form-group col-12">
+                            <label for="street">Company</label>
+                            <input type="text" [(ngModel)]="item.company" class="form-control" id="street" placeholder="Enter school">
+                        </div>
+
+                        <div class="form-group col-4">
+                            <label for="street">From month</label>
+                            <input type="text" placeholder="Enter from month" [bsConfig]="{ dateInputFormat: 'DD/MM/YYYY' }" class="form-control" bsDatepicker>
+                            <!-- <input type="text" [(ngModel)]="item.dateFrom | date" class="form-control" id="street" placeholder="Enter address"> -->
+                        </div>
+                        <div class="form-group col-4">
+                            <label for="street">To month</label>
+                            <input type="text" placeholder="Enter to month" [bsConfig]="{ dateInputFormat: 'DD/MM/YYYY' }" class="form-control" bsDatepicker>
+                            <!-- <input type="text" [(ngModel)]="item.dateTo | date" class="form-control" id="street" placeholder="Enter address"> -->
+                        </div>
+                        <div class="form-group col-4">
+                            <input class="form-check-input" type="checkbox" [value]="item.isCurrentJob" id="isCurrentJob">
+                            <label class="form-check-label" for="isCurrentJob">
+                                    Current Job
+                                </label>
+                        </div>
+                        <div class="form-group col-12">
+                            <label for="street">Description</label>
+                            <textarea type="text" rows="9" [(ngModel)]="item.description" class="form-control" placeholder="Enter description"></textarea>
+                            <em class="font-italic" style="color: #bbb;">5000 character remaining</em>
+                        </div>
+                        <div class="d-flex justify-content-end col-12">
+                            <button type="button" class="btn btn-primary mr-4" (click)="handleCreateOrEditExperience(item)">Save</button>
+                        </div>
+                        <hr>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!--/.col-->
+    </div>
+    <!--/.row-->
+
+    <!--/.row-->
+
+    <!--/.row-->
+
+
+</div>

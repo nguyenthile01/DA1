@@ -1623,9 +1623,13 @@ namespace Y.Migrations
 
                     b.Property<string>("PhoneNumber");
 
+                    b.Property<string>("ProfessionalTitle");
+
                     b.Property<string>("SurName");
 
                     b.Property<string>("UserName");
+
+                    b.Property<int>("YearsOfExperience");
 
                     b.Property<string>("avtarUrl");
 
@@ -1650,8 +1654,6 @@ namespace Y.Migrations
 
                     b.Property<DateTime>("DateTo");
 
-                    b.Property<string>("Degree");
-
                     b.Property<int>("DisplayOrder");
 
                     b.Property<bool>("IsActive");
@@ -1663,6 +1665,8 @@ namespace Y.Migrations
                     b.Property<DateTime?>("LastModificationTime");
 
                     b.Property<long?>("LastModifierUserId");
+
+                    b.Property<string>("Qualification");
 
                     b.Property<string>("School");
 

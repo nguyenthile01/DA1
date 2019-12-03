@@ -13,5 +13,6 @@ namespace Y.Dto
         public int Id { get; set; }
         public int JobSeekerId { get; set; }
         public int CityId { get; set; }
+        public string CitiesName { get; set; }
     }
 }

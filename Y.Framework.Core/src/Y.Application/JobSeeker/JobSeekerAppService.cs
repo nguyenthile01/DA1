@@ -23,20 +23,24 @@ namespace Y.Services
         private readonly IRepository<JobSeeker> jobSeekerRepository;
         private readonly IRepository<DesiredLocationJob> locationJobRepository;
         private readonly IRepository<DesiredCareer> jobCategoryRepository;
+        private readonly IRepository<Experience> experienceRepository;
         //table jobcategory la bang nao e? trong Y.Core hay Y.App
         public JobSeekerAppService(IRepository<JobSeeker> jobSeekerRepository,
             IRepository<DesiredLocationJob> locationJobRepository,
-            IRepository<DesiredCareer> jobCategoryRepository
+            IRepository<DesiredCareer> jobCategoryRepository,
+            IRepository<Experience> experienceRepository
         )
         {
             this.jobSeekerRepository = jobSeekerRepository;
             this.locationJobRepository = locationJobRepository;
             this.jobCategoryRepository = jobCategoryRepository;
+            this.experienceRepository = experienceRepository;
         }
 
         //[AbpAuthorize(PermissionNames.AdminPage_JobSeeker)]
         public virtual async Task<PagedResultDto<JobSeekerDto>> GetAll(JobSeekerFilterDto input)
         {
+            
             //giờ lấy danh sách serkerid từ category
             var jobseekerWithCategoryIds = jobCategoryRepository
                  .GetAll()
@@ -59,10 +63,13 @@ namespace Y.Services
             //lấy data từ danh sách đó
 
             var jobseekerids = jobseekerWithCityIds.Intersect(jobseekerWithCategoryIds);
+            //jobseekerids = jobseekerids.Intersect(jobseekerWithExperince);
 
 
-            var query = jobSeekerRepository.GetAll()
-                .Where(p => jobseekerids.Contains(p.Id));
+            var query = jobSeekerRepository
+                .GetAll()
+                .Where(p => jobseekerids.Contains(p.Id))
+                .Where(p=>p.IsActive == true);
 
 
             //var query = jobSeekerRepository.GetAll()
@@ -83,7 +90,8 @@ namespace Y.Services
         }
         public async Task<CreateOrEditJobSeekerDto> GetForEdit(int? id)
         {
-            var model = new CreateOrEditJobSeekerDto();
+
+            var model = new CreateOrEditJobSeekerDto(); 
             if (id == null)
             {
                 return model;
