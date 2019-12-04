@@ -37,8 +37,28 @@ namespace Y.Services
             this.experienceRepository = experienceRepository;
         }
 
-        //[AbpAuthorize(PermissionNames.AdminPage_JobSeeker)]
         public virtual async Task<PagedResultDto<JobSeekerDto>> GetAll(JobSeekerFilterDto input)
+        {
+
+            var query = jobSeekerRepository.GetAll()
+                 .WhereIf(input.Id != null, p => p.Id == input.Id)
+                   .WhereIf(input.Name != null, p => p.Name == input.Name);
+
+            var totalCount = await query.CountAsync();
+
+            query = ApplySorting(query, input);
+            query = ApplyPaging(query, input);
+
+            var entities = await query.ToListAsync();
+
+            return new PagedResultDto<JobSeekerDto>(
+                totalCount,
+                entities.Select(p => p.MapTo<JobSeekerDto>())
+                    .ToList()
+            );
+        }
+        //[AbpAuthorize(PermissionNames.AdminPage_JobSeeker)]
+        public virtual async Task<PagedResultDto<JobSeekerDto>> GetAllBoxDto(JobSeekerFilterDto input)
         {
             
             //giờ lấy danh sách serkerid từ category
@@ -69,6 +89,7 @@ namespace Y.Services
             var query = jobSeekerRepository
                 .GetAll()
                 .Where(p => jobseekerids.Contains(p.Id))
+                .WhereIf(input.Name!=null,p=>p.Name==input.Name)
                 .Where(p=>p.IsActive == true);
 
 

@@ -117,7 +117,7 @@ namespace Y.Services
                 .FirstOrDefault(p => p.EmailAddress == input.EmailAddress);
             if (input.Id != 0)
             {
-                if(input.EmailAddress == null || email != null || input.UserName == null || input.Password == null)
+                if(input.EmailAddress == null || input.UserName == null || input.Password == null)
                 {
                     throw new ArgumentNullException("Chưa nhập đủ thông tin");
                 }

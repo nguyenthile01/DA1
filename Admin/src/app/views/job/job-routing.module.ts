@@ -2,7 +2,6 @@ import { NgModule } from "@angular/core";
 import { Routes, RouterModule } from "@angular/router";
 import { JobComponent } from "./job.component";
 import { CategoryComponent } from './category/category.component';
-import { JobDetailComponent } from './job-detail/job-detail.component';
 // import { DetailJobComponent } from '../detail-job/detail-job.component';
 import { DetailJobComponent } from './detail-job/detail-job.component';
 import { CategoryDetailComponent } from './category-detail/category-detail.component';

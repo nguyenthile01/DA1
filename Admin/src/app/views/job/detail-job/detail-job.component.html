@@ -92,7 +92,8 @@
                         </div>
                         <div class="col-6 form-group">
                             <label>Deadline for submission</label>
-                            <input type="text" placeholder="Datepicker" [value]="data.deadlineForSubmission | date: 'dd/MM/yyyy'" [minDate]="minDate" [maxDate]="maxDate" class="form-control" bsDatepicker [bsConfig]="{ adaptivePosition: true }" style="text-align: right;">
+                            <input type="text" placeholder="Datepicker" [value]="data.deadlineForSubmission | date: 'dd/MM/yyyy'" [(ngModel)]="data.deadlineForSubmission" [minDate]="minDate" [maxDate]="maxDate" class="form-control" bsDatepicker [bsConfig]="{ adaptivePosition: true }"
+                                style="text-align: right;">
                             <!-- <input type="text" [(ngModel)]="data.categoryId" class="form-control" placeholder="0,1,..."> -->
                         </div>
                         <div class="col-6 form-group">
@@ -111,7 +112,7 @@
             </div>
         </div>
         <div class="d-flex justify-content-end col-12">
-            <button (click)="handleSave()" class="btn btn-primary">Save</button>
+            <button (click)="handleSave(data)" class="btn btn-primary">Save</button>
         </div>
     </div>
     <!--/.col-->

@@ -19,7 +19,7 @@ export class DetailJobService {
   }
   createOrUpdate(data) {
     return this._http.post<IJob>(
-      "http://localhost:21123/api/services/app/Job/createOrUpdate",
+      "http://localhost:21123/api/services/app/Job/CreateOrUpdate",
       data
     );
   }

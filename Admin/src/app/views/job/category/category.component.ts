@@ -15,6 +15,8 @@ export class CategoryComponent implements OnInit {
   public filter: any = {
     name: "",
     isActive: "",
+    page: 1,
+    rowsPerPage: 10
   }
   constructor(
    private dataService: CategoryService,
@@ -38,6 +40,10 @@ export class CategoryComponent implements OnInit {
       }),(error=>{
         alert("Error: "+error.response.data.error.message);
       })
+    }
+    pageChanged(event: any): void {
+      this.filter.page = event.page;
+      this.loadData();
     }
   ngOnInit() {
     this.loadData();

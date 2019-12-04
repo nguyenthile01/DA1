@@ -28,8 +28,8 @@ export class DetailEmployerComponent implements OnInit {
       this.detail = data.result;
     })
   }
-  createAndUpdateItem(){
-    this.dataService.createOrUpdate(this.detail).subscribe(data=>{
+  createAndUpdateItem(data){
+    this.dataService.createOrUpdate(data).subscribe(data=>{
       if(this.id == ''){
         alert("Create success!")
       }

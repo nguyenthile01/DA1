@@ -31,6 +31,7 @@ namespace Y.Services
         {
 
             var query = jobRepository.GetAll()
+                .Include(p => p.JobCategory)
                  .WhereIf(input.Id != null, p => p.Id == input.Id)
                    .WhereIf(input.JobCategoryId != null, p => p.JobCategoryId == input.JobCategoryId)
                    .WhereIf(input.Title != null, p => p.Title == input.Title);

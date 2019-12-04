@@ -13,7 +13,7 @@ import { CreateEmployersComponent } from './views/create-employers/create-employ
 export const routes: Routes = [
   {
     path: "",
-    redirectTo: "dashboard",
+    redirectTo: "login",
     pathMatch: "full"
   },
   {

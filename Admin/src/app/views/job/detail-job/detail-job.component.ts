@@ -41,8 +41,8 @@ export class DetailJobComponent implements OnInit {
     "Others"
   ]
   public gender: Array<any> = [
-    "Nam",
-    "Nữ"
+    "Male",
+    "Female"
   ];
   public language: Array<any> = [
     "Vietnamese",
@@ -80,8 +80,8 @@ export class DetailJobComponent implements OnInit {
       this.data = data.result;
     });
   }
-  handleSave(){
-    this.dataSevice.createOrUpdate(this.data).subscribe(data=>{
+  handleSave(data){
+    this.dataSevice.createOrUpdate(data).subscribe(data=>{
       if(this.id==''){
         alert("Create success!")
       }else{

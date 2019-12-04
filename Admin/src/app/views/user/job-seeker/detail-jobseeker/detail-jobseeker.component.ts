@@ -63,6 +63,20 @@ export class DetailJobseekerComponent implements OnInit {
       this.experience = data.result.items;
     })
   }
+  handlecreateOrUpdate(data){
+    if(data!=null){
+      this.dataService.createOrUpdate(data).subscribe(data=>{
+        if(this.id == ''){
+          alert("Create success!")
+        }
+        else{
+          alert("Update success!")
+        }
+      }),(error=>{
+        alert("Fail!")
+      })
+    }
+  }
   handleCreateOrEditKnowledge(data){
     if(data!=null){
       this.dataService.createOrUpdateKnowledge(data).subscribe(data=>{

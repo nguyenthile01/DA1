@@ -38,6 +38,10 @@ export class CityComponent implements OnInit {
     handleCreate(){
       this.router.navigate(["position/",""])
     }
+    pageChanged(event: any): void {
+      this.filter.page = event.page;
+      this.loadData();
+    }
   ngOnInit() {
     this.loadData()
   }

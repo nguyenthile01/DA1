@@ -10,7 +10,7 @@ namespace Y.Dto
     [AutoMap(typeof(Job))]
     public class CreateOrEditJobDto: EntityDto
     {
-        public int JobCategoryId { get; set; }
+        public int? JobCategoryId { get; set; }
 
         public int AmountOfPeople { get; set; }
         public string Title { get; set; }
@@ -18,7 +18,7 @@ namespace Y.Dto
         public int Wage { get; set; }
 
 
-        public int CityId { get; set; }
+        public int? CityId { get; set; }
         public int EmployerId { get; set; }
 
         public string DescJob { get; set; }

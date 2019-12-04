@@ -14,12 +14,11 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { JobRoutingModule } from "./job-routing.module";
 import { JobComponent } from "./job.component";
 import { CategoryComponent } from "./category/category.component";
-import { JobDetailComponent } from "./job-detail/job-detail.component";
 import { DetailJobComponent } from './detail-job/detail-job.component';
 import { CategoryDetailComponent } from './category-detail/category-detail.component';
 
 @NgModule({
-  declarations: [JobComponent, CategoryComponent, JobDetailComponent,DetailJobComponent, CategoryDetailComponent],
+  declarations: [JobComponent, CategoryComponent,DetailJobComponent, CategoryDetailComponent],
   imports: [
     CommonModule,
     JobRoutingModule,
@@ -32,6 +31,6 @@ import { CategoryDetailComponent } from './category-detail/category-detail.compo
     EditorModule,
     BsDatepickerModule.forRoot(),
   ],
-  bootstrap: [JobComponent, CategoryComponent, JobDetailComponent, DetailJobComponent, CategoryDetailComponent]
+  bootstrap: [JobComponent, CategoryComponent, DetailJobComponent, CategoryDetailComponent]
 })
 export class JobModule {}
