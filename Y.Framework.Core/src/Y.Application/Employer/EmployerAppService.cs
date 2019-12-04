@@ -66,6 +66,7 @@ namespace Y.Services
                  .WhereIf(input.Id != null, p => p.Id == input.Id)
                 .WhereIf(input.NameCompany != null, p => p.NameCompany == input.NameCompany)
                 .WhereIf(input.Email != null, p => p.EmailAddress == input.Email)
+            .WhereIf(input.PhoneNumber != null, p => p.PhoneNumber == input.PhoneNumber)
             .WhereIf(input.PhoneNumber != null, p => p.PhoneNumber == input.PhoneNumber);
 
             var totalCount = await query.CountAsync();

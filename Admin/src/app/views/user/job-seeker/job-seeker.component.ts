@@ -13,7 +13,7 @@ export class JobSeekerComponent implements OnInit {
   public filter: any = {
     name: "",
     JobLocationId: "",
-    CategoryId: "",
+    jobCategoryId: "",
     page: 1,
     rowsPerPage: 10
   };

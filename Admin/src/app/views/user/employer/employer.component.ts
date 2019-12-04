@@ -37,16 +37,15 @@ export class EmployerComponent implements OnInit {
     this.dataService.getEmployer(this.filter).subscribe(data => {
       this.data = data.result.items;
       this.total = data.result.totalCount;
-    }),
-      error => {
-        alert("error:" + error.response.data.error.message)
-      };
+    })
   }
 
   deleteItem(id) {
     this.dataService.delete(id).subscribe(data => {
       this.loadData();
-    }),(error => {error=>error.response.data.error.message});
+    }),(error => {
+      alert("Error: "+error.message)
+    });
     
   }
   handleCreate() {

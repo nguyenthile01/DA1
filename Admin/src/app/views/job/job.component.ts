@@ -36,11 +36,11 @@ export class JobComponent implements OnInit {
     })
   }
   handleCreate() {
-    this.router.navigate(["post-detail/", '']);
+    this.router.navigate(["job/detail-job/", '']);
   }
   handleEdit(id) {
     console.log(id);
-    this.router.navigate(["post-detail/",id]);
+    this.router.navigate(["job/detail-job/",id]);
     //this.router.navigate(["job/detail/", id]);
   }
   pageChanged(event: any): void {

@@ -13,7 +13,7 @@
                     <div class="row d-flex justify-content-between">
                         <div class="row">
                             <div class="col">
-                                <input [(ngModel)]="filter.emailAddress" type="text" class="form-control" placeholder="Enter email">
+                                <input [(ngModel)]="filter.email" type="text" class="form-control" placeholder="Enter email">
                             </div>
                             <div class="col">
                                 <input [(ngModel)]="filter.nameCompany" type="text" class="form-control" placeholder="Enter name company">
@@ -32,7 +32,6 @@
                         <thead>
                             <tr>
                                 <th>Id</th>
-                                <th>Name</th>
                                 <th>Company Name</th>
                                 <th>Email</th>
                                 <th>Phone</th>
@@ -43,7 +42,6 @@
                         <tbody>
                             <tr *ngFor="let item of data">
                                 <td>{{item.id}}</td>
-                                <td>{{item.name}}</td>
                                 <td>{{item.nameCompany}}</td>
                                 <td>{{item.emailAddress}}</td>
                                 <td>{{item.phoneNumber}}</td>
@@ -66,21 +64,11 @@
                             </tr>
                         </tbody>
                     </table>
-                    <!-- <ngb-pagination [collectionSize]="total" [pageSize]="filter.page" [(page)]="filter.page" [maxSize]="7" [rotate]="true" (pageChange)="handleCurrentChange(filter.page)"></ngb-pagination> -->
-                    <!-- <pagination-controls (pageChange)="handleCurrentChange($event)"></pagination-controls> -->
-                    <pagination [boundaryLinks]="true" [totalItems]="total" [(ngModel)]="filter.page" (pageChanged)="pageChanged($event)" class="pagination-sm" [maxSize]="filter.rowsPerPage" previousText="&lsaquo;" nextText="&rsaquo;" firstText="&laquo;" lastText="&raquo;"></pagination>
-                    <!-- <pagination [totalItems]="total" [(ngModel)]="filter.page" [maxSize]="filter.maxResultCount" class="pagination-sm" previousText="&lsaquo;" nextText="&rsaquo;" firstText="&laquo;" lastText="&raquo;" [boundaryLinks]="true" [rotate]="false" (numPages)="10 = $event">
-                    </pagination> -->
-                    <!-- <ul class="pagination">
-                        <li class="page-item"><a class="page-link" href="#">Prev</a></li>
-                        <li class="page-item active">
-                            <a class="page-link" href="#">1</a>
-                        </li>
-                        <li class="page-item"><a class="page-link" href="#">2</a></li>
-                        <li class="page-item"><a class="page-link" href="#">3</a></li>
-                        <li class="page-item"><a class="page-link" href="#">4</a></li>
-                        <li class="page-item"><a class="page-link" href="#">Next</a></li>
-                    </ul> -->
+
+                    <pagination [boundaryLinks]="true" [totalItems]="total" [(ngModel)]="filter.page" (pageChanged)="pageChanged($event)" class="pagination-sm d-flex justify-content-center" [maxSize]="filter.rowsPerPage" previousText="&lsaquo;" nextText="&rsaquo;" firstText="&laquo;"
+                        lastText="&raquo;"></pagination>
+
+
                 </div>
             </div>
         </div>

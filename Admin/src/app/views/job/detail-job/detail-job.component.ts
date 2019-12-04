@@ -9,6 +9,7 @@ import { DetailJobService } from "./detail-job.service";
 })
 export class DetailJobComponent implements OnInit {
   private id: "";
+  public deadlineForSubmission = new Date();
   public data: any = {};
   public city: Array<any> = [];
   public category: Array<any> = [];
@@ -86,6 +87,7 @@ export class DetailJobComponent implements OnInit {
       }else{
         alert("Update success!")
       }
+      this.router.navigate(["job/post"])
     }),(error=>{
       alert("error:" + error.response.data.error.message)
     })

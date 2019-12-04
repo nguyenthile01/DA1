@@ -48,15 +48,14 @@ const routes: Routes = [
         path: 'user/jobSeeker/:id',
         component: DetailJobseekerComponent,
         data: {
-          title: 'Detail'
+          title: ''
         },
-        
       },
       {
         path: 'user/employer/:id',
         component: DetailEmployerComponent,
         data: {
-          title: 'Detail'
+          title: ''
         },
       },
     ]

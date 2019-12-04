@@ -31,7 +31,9 @@ namespace Y.Services
         {
 
             var query = jobRepository.GetAll()
-                 .WhereIf(input.Id != null, p => p.Id == input.Id);
+                 .WhereIf(input.Id != null, p => p.Id == input.Id)
+                   .WhereIf(input.JobCategoryId != null, p => p.JobCategoryId == input.JobCategoryId)
+                   .WhereIf(input.Title != null, p => p.Title == input.Title);
 
             var totalCount = await query.CountAsync();
 

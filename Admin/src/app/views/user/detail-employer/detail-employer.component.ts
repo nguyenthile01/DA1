@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { EmployerService } from '../employer/employer.service';
 import {Router, ActivatedRoute} from '@angular/router';
+import { error } from '@angular/compiler/src/util';
 
 @Component({
   selector: 'app-detail-employer',
@@ -13,7 +14,8 @@ export class DetailEmployerComponent implements OnInit {
 
   constructor(
     private dataService: EmployerService,
-    private route: ActivatedRoute
+    private route: ActivatedRoute,
+    private router: Router,
   ) {
     this.route.params.subscribe( params => {
       this.id = params.id;
@@ -28,7 +30,15 @@ export class DetailEmployerComponent implements OnInit {
   }
   createAndUpdateItem(){
     this.dataService.createOrUpdate(this.detail).subscribe(data=>{
-      alert("Create success!")
+      if(this.id == ''){
+        alert("Create success!")
+      }
+      else{
+        alert("Update success!")
+      }
+      this.router.navigate(["/user/employer"])
+    }), (error=>{
+      alert("Error")
     })
   }
   isNumberKey(evt) {

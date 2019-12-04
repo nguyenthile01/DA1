@@ -16,38 +16,38 @@ export const navItems: INavData[] = [
     name: "Danh mục"
   },
 
-  {
-    name: "buttons",
-    url: "/buttons",
-    icon: "icon-cursor",
-    children: [
-      {
-        name: "Buttons",
-        url: "/buttons/buttons",
-        icon: "icon-cursor"
-      },
-      {
-        name: "Dropdowns",
-        url: "/buttons/dropdowns",
-        icon: "icon-cursor"
-      },
-      {
-        name: "Brand Buttons",
-        url: "/buttons/brand-buttons",
-        icon: "icon-cursor"
-      }
-    ]
-  },
+  // {
+  //   name: "buttons",
+  //   url: "/buttons",
+  //   icon: "icon-cursor",
+  //   children: [
+  //     {
+  //       name: "Buttons",
+  //       url: "/buttons/buttons",
+  //       icon: "icon-cursor"
+  //     },
+  //     {
+  //       name: "Dropdowns",
+  //       url: "/buttons/dropdowns",
+  //       icon: "icon-cursor"
+  //     },
+  //     {
+  //       name: "Brand Buttons",
+  //       url: "/buttons/brand-buttons",
+  //       icon: "icon-cursor"
+  //     }
+  //   ]
+  // },
   {
     name: "User",
     url: "/user",
     icon: "fa fa-user-o ",
     children: [
-      {
-        name: "Admin",
-        url: "/user/admin",
-        icon: "fa fa-angle-right"
-      },
+      // {
+      //   name: "Admin",
+      //   url: "/user/admin",
+      //   icon: "fa fa-angle-right"
+      // },
       {
         name: "Employer",
         url: "/user/employer",
@@ -68,12 +68,12 @@ export const navItems: INavData[] = [
       {
         name: "Category Job",
         url: "/job/category",
-        icon: "icon-puzzle"
+        icon: "fa fa-angle-right"
       },
       {
         name: "Post",
         url: "/job/post",
-        icon: "icon-puzzle"
+        icon: "fa fa-angle-right"
       }
     ]
   },

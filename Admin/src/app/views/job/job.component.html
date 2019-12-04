@@ -41,7 +41,7 @@
                             <tr *ngFor="let item of data">
                                 <td>{{item.id}}</td>
                                 <td>{{item.title}}</td>
-                                <td>{{item.categoryName}}</td>
+                                <td>{{item.jobCategoryName}}</td>
                                 <td>
                                     <div class="btn-group" dropdown>
                                         <button id="button-basic" dropdownToggle type="button" class="btn dropdown-toggle" aria-controls="dropdown-basic">
@@ -60,21 +60,9 @@
                             </tr>
                         </tbody>
                     </table>
-                    <!-- <ngb-pagination [collectionSize]="total" [pageSize]="filter.page" [(page)]="filter.page" [maxSize]="7" [rotate]="true" (pageChange)="handleCurrentChange(filter.page)"></ngb-pagination> -->
-                    <!-- <pagination-controls (pageChange)="handleCurrentChange($event)"></pagination-controls> -->
+
                     <pagination [boundaryLinks]="true" [totalItems]="total" [(ngModel)]="filter.page" (pageChanged)="pageChanged($event)" class="pagination-sm" [maxSize]="filter.rowsPerPage" previousText="&lsaquo;" nextText="&rsaquo;" firstText="&laquo;" lastText="&raquo;"></pagination>
-                    <!-- <pagination [totalItems]="total" [(ngModel)]="filter.page" [maxSize]="filter.maxResultCount" class="pagination-sm" previousText="&lsaquo;" nextText="&rsaquo;" firstText="&laquo;" lastText="&raquo;" [boundaryLinks]="true" [rotate]="false" (numPages)="10 = $event">
-                        </pagination> -->
-                    <!-- <ul class="pagination">
-                            <li class="page-item"><a class="page-link" href="#">Prev</a></li>
-                            <li class="page-item active">
-                                <a class="page-link" href="#">1</a>
-                            </li>
-                            <li class="page-item"><a class="page-link" href="#">2</a></li>
-                            <li class="page-item"><a class="page-link" href="#">3</a></li>
-                            <li class="page-item"><a class="page-link" href="#">4</a></li>
-                            <li class="page-item"><a class="page-link" href="#">Next</a></li>
-                        </ul> -->
+
                 </div>
             </div>
         </div>

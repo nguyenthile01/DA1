@@ -65,11 +65,11 @@ export const routes: Routes = [
         loadChildren: () =>
           import("./views/user/user.module").then(m => m.UserModule)
       },
-      {
-        path: "post-detail/:id",
-        loadChildren: () =>
-          import("./views/detail-job/detail-job.module").then(m => m.DetailJobModule)
-      },
+      // {
+      //   path: "abc/:id",
+      //   loadChildren: () =>
+      //     import("./views/detail-job/detail-job.module").then(m => m.DetailJobModule)
+      // },
       {
         path: "job",
         loadChildren: () =>

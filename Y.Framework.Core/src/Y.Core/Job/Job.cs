@@ -8,9 +8,9 @@ namespace Y.Core
 {
     public class Job:BaseAuditedEntity
     {
-        [ForeignKey(nameof(CategoryId))]
+        [ForeignKey(nameof(JobCategoryId))]
         public JobCategory JobCategory { get; set; }
-        public int? CategoryId { get; set; }
+        public int? JobCategoryId { get; set; }
 
         public int AmountOfPeople { get; set; }
         public string Title { get; set; }

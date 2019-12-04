@@ -3,6 +3,9 @@ export interface Employer {
     totalCount: 0;
     items: [];
   };
+  error:{
+    message: ""
+  }
   id: number;
   name: string;
   nameCompany: string;
@@ -106,8 +109,8 @@ export interface IJob {
     items: [];
   };
   id: number;
-  categoryId: number;
-  categoryName: number;
+  jobCategoryId: number;
+  jobCategoryName: number;
   amountOfPeople: number;
   title: string;
   rankAtWork: string;

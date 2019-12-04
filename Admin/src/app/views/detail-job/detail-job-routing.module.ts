@@ -7,9 +7,6 @@ const routes: Routes = [
   {
     path: '',
     component: DetailJobComponent,
-    data: {
-      title: 'Detail'
-    },
   }
 ];
 

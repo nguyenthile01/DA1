@@ -11,8 +11,8 @@ namespace Y.Dto
     public class JobDto: IEntityDto<int>
     {
         public int Id { get; set; }
-        public int CategoryId { get; set; }
-        public int CategoryName { get; set; }
+        public int JobCategoryId { get; set; }
+        public string JobCategoryName { get; set; }
 
         public int AmountOfPeople { get; set; }
         public string Title { get; set; }

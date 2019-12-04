@@ -1478,8 +1478,6 @@ namespace Y.Migrations
 
                     b.Property<int>("AmountOfPeople");
 
-                    b.Property<int?>("CategoryId");
-
                     b.Property<int?>("CityId");
 
                     b.Property<DateTime>("CreationTime");
@@ -1502,6 +1500,8 @@ namespace Y.Migrations
 
                     b.Property<bool>("IsDeleted");
 
+                    b.Property<int?>("JobCategoryId");
+
                     b.Property<string>("JobRequirement");
 
                     b.Property<DateTime?>("LastModificationTime");
@@ -1520,11 +1520,11 @@ namespace Y.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CategoryId");
-
                     b.HasIndex("CityId");
 
                     b.HasIndex("EmployerId");
+
+                    b.HasIndex("JobCategoryId");
 
                     b.ToTable("Jobs");
                 });
@@ -2799,10 +2799,6 @@ namespace Y.Migrations
 
             modelBuilder.Entity("Y.Core.Job", b =>
                 {
-                    b.HasOne("Y.Core.JobCategory", "JobCategory")
-                        .WithMany()
-                        .HasForeignKey("CategoryId");
-
                     b.HasOne("Y.Core.City", "Cities")
                         .WithMany()
                         .HasForeignKey("CityId");
@@ -2810,6 +2806,10 @@ namespace Y.Migrations
                     b.HasOne("Y.Core.Employer", "Employer")
                         .WithMany()
                         .HasForeignKey("EmployerId");
+
+                    b.HasOne("Y.Core.JobCategory", "JobCategory")
+                        .WithMany()
+                        .HasForeignKey("JobCategoryId");
                 });
 
             modelBuilder.Entity("Y.Core.JobApplication", b =>

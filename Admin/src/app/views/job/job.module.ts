@@ -7,16 +7,19 @@ import { PaginationModule } from "ngx-bootstrap/pagination";
 import { NgxPaginationModule } from "ngx-pagination";
 import { BsDropdownModule } from "ngx-bootstrap/dropdown";
 import { ButtonsModule } from "ngx-bootstrap/buttons";
-import { EditorModule } from '@tinymce/tinymce-angular';
-import { BsDatepickerModule } from 'ngx-bootstrap';
+import { EditorModule } from "@tinymce/tinymce-angular";
+import { BsDatepickerModule } from "ngx-bootstrap";
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { JobRoutingModule } from "./job-routing.module";
 import { JobComponent } from "./job.component";
-import { CategoryComponent } from './category/category.component';
+import { CategoryComponent } from "./category/category.component";
+import { JobDetailComponent } from "./job-detail/job-detail.component";
 import { DetailJobComponent } from './detail-job/detail-job.component';
+import { CategoryDetailComponent } from './category-detail/category-detail.component';
 
 @NgModule({
-  declarations: [JobComponent, CategoryComponent, DetailJobComponent],
+  declarations: [JobComponent, CategoryComponent, JobDetailComponent,DetailJobComponent, CategoryDetailComponent],
   imports: [
     CommonModule,
     JobRoutingModule,
@@ -27,8 +30,8 @@ import { DetailJobComponent } from './detail-job/detail-job.component';
     PaginationModule.forRoot(),
     NgxPaginationModule,
     EditorModule,
-    BsDatepickerModule,
+    BsDatepickerModule.forRoot(),
   ],
-  bootstrap:[JobComponent, CategoryComponent, DetailJobComponent]
+  bootstrap: [JobComponent, CategoryComponent, JobDetailComponent, DetailJobComponent, CategoryDetailComponent]
 })
 export class JobModule {}

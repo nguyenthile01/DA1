@@ -1,1 +1,87 @@
-<p>category works!</p>
+<div class="animated fadeIn">
+    <div class="row">
+        <!--/.col-->
+
+        <div class="col-lg-12">
+            <div class="header-table d-flex justify-content-between">
+                <h2>List Job Category</h2>
+                <button type="button" class="btn btn-success fa fa-plus-circle" (click)="handleCreate()"> Create</button>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <!-- <i class="fa fa-align-justify"></i> List Employer -->
+                    <div class="row d-flex justify-content-between">
+                        <div class="row">
+                            <div class="col">
+                                <input [(ngModel)]="filter.name" type="text" class="form-control" placeholder="Enter name">
+                            </div>
+                            <!-- <div class="col">
+                                    <input [(ngModel)]="filter.nameCompany" type="text" class="form-control" placeholder="Enter name company">
+                                </div>
+                                <div class="col">
+                                    <input [(ngModel)]="filter.phoneNumber" type="text" class="form-control" placeholder="Enter phone number">
+                                </div> -->
+                        </div>
+                        <div>
+                            <button type="button" class="btn btn-primary fa fa-search fa-lg" (click)="loadData()"> Search</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Name</th>
+                                <th>Create time</th>
+                                <!-- <th>Active</th> -->
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let item of data">
+                                <td>{{item.id}}</td>
+                                <td>{{item.name}}</td>
+                                <td>{{item.creationTime | date: 'dd/MM/yyyy'}}</td>
+                                <!-- <td>
+                                    <span>
+                                        <i title="Đã kích hoạt" *ngIf="item.isActive" class="fa fa-check fa-lg"></i>
+                                        <i title="Chưa kích hoạt" *ngIf="!item.isActive" class="fa fa-close fa-lg"></i>
+                                    </span>
+                                </td> -->
+                                <td>
+                                    <div class="btn-group" dropdown>
+                                        <button id="button-basic" dropdownToggle type="button" class="btn dropdown-toggle" aria-controls="dropdown-basic">
+                                                  Action <span class="caret"></span>
+                                                </button>
+                                        <ul id="dropdown-basic" *dropdownMenu class="dropdown-menu action" role="menu" aria-labelledby="button-basic">
+                                            <li role="menuitem" (click)="handleEdit(item.id)" class="cui-settings icons">
+                                                Edit
+                                            </li>
+                                            <li role="menuitem" (click)="deleteItem(item.id)" class="cui-trash icons">
+                                                Delete
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="col-12">
+                        <pagination [boundaryLinks]="true" [totalItems]="total" [(ngModel)]="filter.page" (pageChanged)="pageChanged($event)" class="pagination-sm d-flex justify-content-center" [maxSize]="filter.rowsPerPage" previousText="&lsaquo;" nextText="&rsaquo;" firstText="&laquo;"
+                            lastText="&raquo;"></pagination>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--/.col-->
+    </div>
+    <!--/.row-->
+
+    <!--/.row-->
+
+    <!--/.row-->
+
+
+</div>
