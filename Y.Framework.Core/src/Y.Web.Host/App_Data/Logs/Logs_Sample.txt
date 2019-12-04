@@ -2404,3 +2404,7 @@ INFO  2019-12-04 20:54:29,880 [30   ] .Mvc.Infrastructure.ObjectResultExecutor -
 INFO  2019-12-04 20:54:29,881 [30   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Y.Services.JobSeekerAppService.GetAll (Y.Application) in 22.4913ms
 INFO  2019-12-04 20:54:29,881 [30   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 31.3945ms 200 application/json; charset=utf-8
 DEBUG 2019-12-04 20:54:35,114 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-12-04 20:55:00,506 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-12-04 20:55:29,985 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-12-04 20:55:58,585 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
+DEBUG 2019-12-04 20:56:22,305 [6    ] Quartz.Core.QuartzSchedulerThread        - Batch acquisition of 0 triggers
